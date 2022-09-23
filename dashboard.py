@@ -1,7 +1,7 @@
-from games_factory import generate_dashboard_items
-from definitions import GameItem, DashboardItem, DashboardType
+from data_management.games_factory import generate_dashboard_items
+from data_management.definitions import GameItem, DashboardItem, DashboardType
 
-from table_creation import create_tables
+from data_management.table_creation import create_tables
 
 
 from typing import List, Callable, Tuple

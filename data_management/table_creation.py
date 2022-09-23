@@ -1,8 +1,8 @@
 from typing import List
 from rich.table import Table
 
-from games_factory import generate_dashboard_items
-from definitions import DashboardItem, DashboardType, GameItem
+from .games_factory import generate_dashboard_items
+from .definitions import DashboardItem, DashboardType, GameItem
 
 
 

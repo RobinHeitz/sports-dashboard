@@ -1,8 +1,8 @@
 from unittest import TestCase
-from definitions import CompetitionTableSpot, DashboardItem, DashboardType, GameItem, GameResult, SportsType
-from games_factory import handball_bl_gameday_item, handball_bl_placement_table_item
+from data_management.definitions import CompetitionTableSpot, DashboardItem, DashboardType, GameItem, GameResult, SportsType
+from data_management.games_factory import handball_bl_gameday_item, handball_bl_placement_table_item
 
-from table_creation import _create_table, create_tables
+from data_management.table_creation import _create_table, create_tables
 
 from datetime import datetime
 

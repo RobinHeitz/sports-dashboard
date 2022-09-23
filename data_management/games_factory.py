@@ -2,7 +2,7 @@ from typing import List, Tuple
 from random import sample, randint
 from datetime import datetime
 
-from definitions import CompetitionTableSpot, DashboardItem, DashboardType, GameItem, GameResult, SportsType
+from .definitions import CompetitionTableSpot, DashboardItem, DashboardType, GameItem, GameResult, SportsType
 
 HANDBALL_TEAMS = [
     "Füchse Berlin", "TWH Kiel", "SC Magdeburg", "Vfl Gummersbach", "ASV Hamm-Westfalen", "HSV Hamburg", "SG Flensburg-Handewit", "TV Lemgo", "Göppingen", "Melsungen"
