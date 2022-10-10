@@ -4,13 +4,19 @@ from urllib import response
 
 import requests
 import json
-from data_management.definitions import FootballStanding
+from .definitions_fb import FootballStanding
 
 from pathlib import Path
 
 ### Config
-
 HEADERS = {"X-Auth-Token":"516f434d1e4b46a993b63380d4882fa7"}
+
+
+def _dir_test_data(file_name:str) -> Path:
+    p = Path("football/test_data")
+    if not p.exists():
+        p = Path("test_data")
+    return p / file_name
 
 def get_bl_standings(testing = True) -> List[FootballStanding]:
     """Returns a list of FootballStanding - Objects which represents current 1. Bundesliga standings.
@@ -18,7 +24,7 @@ def get_bl_standings(testing = True) -> List[FootballStanding]:
     - testing (default = True): If true, fakes call by reading data from a file.
     """
     if testing == True:
-        json_data = __get_standings_data_testing(Path("data_management/test_data/football_bl1.txt"))
+        json_data = __get_standings_data_testing(_dir_test_data("football_bl1.txt"))
     else:
         json_data = __get_standings_data_api("https://api.football-data.org/v4/competitions/BL1/standings")
     return __validate_standings_data(json_data)
@@ -30,7 +36,7 @@ def get_cl_standings(testing = True) -> List[FootballStanding]:
     - testing (default = True): If true, fakes call by reading data from a file.
     """
     if testing == True:
-        json_data = __get_standings_data_testing(Path("data_management/test_data/football_cl.txt"))
+        json_data = __get_standings_data_testing(_dir_test_data("football_cl.txt"))
     else:
         json_data = __get_standings_data_api("https://api.football-data.org/v4/competitions/CL/standings")
     return __validate_standings_data(json_data)
