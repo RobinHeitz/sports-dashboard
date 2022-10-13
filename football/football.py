@@ -4,7 +4,7 @@ from urllib import response
 
 import requests
 import json
-from .definitions_fb import FootballStanding
+from .definitions_fb import FootballStanding, FootballTypeEnum
 
 from pathlib import Path
 
@@ -18,7 +18,7 @@ def _dir_test_data(file_name:str) -> Path:
         p = Path("test_data")
     return p / file_name
 
-def get_bl_standings(testing = True) -> List[FootballStanding]:
+def get_bl_standing(testing = True) ->FootballStanding:
     """Returns a list of FootballStanding - Objects which represents current 1. Bundesliga standings.
     Params: 
     - testing (default = True): If true, fakes call by reading data from a file.
@@ -30,7 +30,7 @@ def get_bl_standings(testing = True) -> List[FootballStanding]:
     return __validate_standings_data(json_data)
 
 
-def get_cl_standings(testing = True) -> List[FootballStanding]:
+def get_cl_standing(testing = True) -> FootballStanding:
     """Returns a list of FootballStanding - Objects which represents current UEFA Champions League standings.
     Params: 
     - testing (default = True): If true, fakes call by reading data from a file.
@@ -63,7 +63,9 @@ def __get_standings_data_api(url):
 def __validate_standings_data(json_data) -> List[FootballStanding]:
     """Validates json data by using pydantic model structure."""
     standings_json = json_data.get("standings")
-    return [FootballStanding(**s) for s in standings_json]
+    standings = [FootballStanding(**s) for s in standings_json]
+    standings = list(filter(lambda s: s.type == FootballTypeEnum.TOTAL, standings))
+    return standings
 
 
 

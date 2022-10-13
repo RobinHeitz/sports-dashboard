@@ -18,7 +18,7 @@ class HandballTypeEnum(str, Enum):
 
 
 
-class HandballStandings(BaseModel):
+class HandballStanding(BaseModel):
     """Standing of a league, containing a list of HandballPosition - Elements."""
     competition_name: str
     table: List["HandballPosition"]
@@ -58,4 +58,4 @@ class HandballPosition(BaseModel):
             str(self.goals_against),
         )
 
-HandballStandings.update_forward_refs()
+HandballStanding.update_forward_refs()

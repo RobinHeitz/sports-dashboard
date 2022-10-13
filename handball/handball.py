@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote import webelement
 
-from .definitions_hb import HandballPosition, HandballStageEnum, HandballStandings, HandballTypeEnum
+from .definitions_hb import HandballPosition, HandballStageEnum, HandballStanding, HandballTypeEnum
 
 from pathlib import Path
 
@@ -42,8 +42,7 @@ def _get_html_from_website(url:str, xpath:str):
 
 
 
-
-def list_bl_standings(testing = True) -> HandballStandings:
+def get_bl_standing(testing = True) -> HandballStanding:
     """Returns """
 
     html_code = _bl_standings_html_code(testing = testing)
@@ -80,7 +79,7 @@ def list_bl_standings(testing = True) -> HandballStandings:
     
 
 
-    standings =  HandballStandings(
+    standings =  HandballStanding(
         competition_name="Liquimoly Handball-Bundesliga",
         table = positions, 
         type=HandballTypeEnum.TOTAL,
@@ -89,6 +88,7 @@ def list_bl_standings(testing = True) -> HandballStandings:
     print(standings)
     return standings
 
+get_cl_standing = get_bl_standing
 
 if __name__ == "__main__":
-    list_bl_standings(testing=True)
+    get_bl_standing(testing=True)
