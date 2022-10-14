@@ -4,4 +4,4 @@
 *.pyc
 
 # Webserver stuff
-webserver/ws_env/
+webserver/env_webserver/
