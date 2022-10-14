@@ -5,6 +5,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote import webelement
 
+from pyvirtualdisplay import Display, display
+
 from .definitions_hb import HandballPosition, HandballStageEnum, HandballStanding, HandballTypeEnum
 
 from pathlib import Path
@@ -33,6 +35,8 @@ def _bl_standings_html_code(testing = True):
 
 def _get_html_from_website(url:str, xpath:str):
     """Using seleniums webdriver for returning website's html code for given url and x-path."""
+    display = Display(visible=0, size=(800,600))
+    display.start()
     browser = webdriver.Chrome()
     browser.get(url)
     sleep(2)
