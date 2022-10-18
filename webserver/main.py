@@ -11,7 +11,7 @@ from functools import partial
 ##################
 
 data_store = {
-    "hb_bl": "Hi this is hb Bl",
+    "hb_bl": "hb Bl =)",
     "hb_cl": "Hi this is hb Cl",
     "fb_bl": "Hi this is FB Bl",
     "fb_cl": "Hi this is FB UEFA CL",

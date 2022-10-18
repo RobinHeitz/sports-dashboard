@@ -4,11 +4,9 @@ from sqlalchemy.orm import sessionmaker
 from contextlib import contextmanager
 from sqlalchemy.orm.session import Session
 
-from ..schemas import Standing, Competition, Position
+# from ..schemas import Standing, Competition, Position
 
-import data_model as model
-
-SQLALCHEMY_DATABASE_URL = "sqlite:///./sql_app.db"
+SQLALCHEMY_DATABASE_URL = "sqlite:///db.sqlite"
 
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
@@ -28,10 +26,10 @@ def session_context():
 
 def get_something(db:Session, id:int):
     ...
-    return 1
+    return id
 
 
-def create_position(db:Session, position:Position):
+def create_position(db:Session):
     with session_context() as session:
         ...
         #Do Some things
