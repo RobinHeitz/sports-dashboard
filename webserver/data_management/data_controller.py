@@ -6,7 +6,7 @@ from sqlalchemy.orm.session import Session
 
 from . import model as mdl
 
-from . import schemas as schem
+import common.schemas as schemas
 
 
 SQLALCHEMY_DATABASE_URL = "sqlite:///db.sqlite"
@@ -28,7 +28,7 @@ def session_context():
 
 
 
-def create_standing(standing_schema:schem.Standing):
+def create_standing(standing_schema:schemas.Standing):
     with session_context() as session:
         standing = mdl.Standing()
 

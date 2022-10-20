@@ -3,9 +3,7 @@ from pydantic import BaseModel
 from pathlib import Path
 from functools import partial
 
-
-import schemas as schem
-
+import common.schemas as schemas
 import data_management.data_controller as dc
 
 
@@ -52,6 +50,6 @@ def get_fb_bl_standings():
 #####################
 
 @app.post("/handball/standing/bl")
-def post_hb_bl_standing(new_standing: schem.Standing):
+def post_hb_bl_standing(new_standing: schemas.Standing):
     dc.create_standing(new_standing)
     
