@@ -1,13 +1,13 @@
 FROM python:latest
 
 # Set working directory
-WORKDIR /app
+WORKDIR /web
 
-COPY ./requirements.txt /app
+COPY ./requirements.txt /web
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
 #Copy scripts to folder
-COPY . /app
+COPY . /web
 
 
 #Run cmd:

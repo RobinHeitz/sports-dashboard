@@ -21,7 +21,7 @@ class Competition(BaseModel):
 
 class Standing(BaseModel):
     """Represents the current standing of teams within its competition."""
-    teams: List["Position"]
+    positions: List["Position"]
     updated: datetime
 
     class Config:

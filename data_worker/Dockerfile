@@ -1,17 +1,17 @@
 FROM python:latest
 
 # Set working directory
-WORKDIR /app
+WORKDIR /data_worker
 
-COPY ./requirements.txt /app
+COPY ./requirements.txt /data_worker
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
 #Copy scripts to folder
-COPY . /app
+COPY . /data_worker
 
 
 #Run cmd:
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
+CMD ["python", "main.py"]
 
 

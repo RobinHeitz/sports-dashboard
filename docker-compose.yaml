@@ -1,0 +1,16 @@
+services:
+  web:
+    build: webserver
+    container_name: sports-webserver
+    command: uvicorn main:app --host 0.0.0.0 --port 80 --reload --reload-include *.yaml
+    ports:
+      - 8000:80
+    volumes:
+      - .:/web
+  
+  data_worker:
+    build: data_worker
+    container_name: sports-data-worker
+    command: python main.py
+    volumes:
+      - .:/data_worker

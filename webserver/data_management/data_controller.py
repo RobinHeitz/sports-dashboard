@@ -4,7 +4,10 @@ from sqlalchemy.orm import sessionmaker
 from contextlib import contextmanager
 from sqlalchemy.orm.session import Session
 
-# from ..schemas import Standing, Competition, Position
+from . import model as mdl
+
+from . import schemas as schem
+
 
 SQLALCHEMY_DATABASE_URL = "sqlite:///db.sqlite"
 
@@ -24,12 +27,16 @@ def session_context():
         session.close()
 
 
-def get_something(db:Session, id:int):
-    ...
-    return id
 
-
-def create_position(db:Session):
+def create_standing(standing_schema:schem.Standing):
     with session_context() as session:
-        ...
-        #Do Some things
+        standing = mdl.Standing()
+
+        for pos_schema in standing_schema.positions:
+            pos = mdl.Position(**pos_schema.dict())
+            session.add(pos)
+            standing.positions.append(pos)
+
+        session.add(standing)
+        session.commit()
+    return standing_schema.json()

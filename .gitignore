@@ -2,6 +2,7 @@
 
 /env-dev/ 
 *.pyc
+*.sqlite
 
 # Webserver stuff
 webserver/env_webserver/

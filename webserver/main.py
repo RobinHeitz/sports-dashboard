@@ -4,6 +4,9 @@ from pathlib import Path
 from functools import partial
 
 
+import schemas as schem
+
+import data_management.data_controller as dc
 
 
 ##################
@@ -18,6 +21,14 @@ data_store = {
 }
 
 app = FastAPI()
+
+@app.get("/")
+def get_root():
+    return f"This is my little sports-api for handball and football data (bl and cl).To get an overview, look at: /docs."
+
+########################
+### GET DATA FROM DB ###
+########################
 
 @app.get("/handball/standing/bl")
 def get_hb_bl_standings():
@@ -35,6 +46,12 @@ def get_fb_bl_standings():
 def get_fb_bl_standings():
     return data_store.get("fb_cl")
 
-@app.get("/")
-def get_root():
-    return f"This is my little sports-api for handball and football data (bl and cl).To get an overview, look at: /docs."
+
+#####################
+### POST NEW DATA ###
+#####################
+
+@app.post("/handball/standing/bl")
+def post_hb_bl_standing(new_standing: schem.Standing):
+    dc.create_standing(new_standing)
+    
