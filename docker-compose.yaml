@@ -1,7 +1,7 @@
 services:
   web:
     build: webserver
-    container_name: sports-webserver
+    container_name: webserver
     command: uvicorn main:app --host 0.0.0.0 --port 80 --reload --reload-include *.yaml
     ports:
       - 8000:80
@@ -10,7 +10,28 @@ services:
   
   data_worker:
     build: data_worker
-    container_name: sports-data-worker
+    container_name: data_worker
     command: python main.py
     volumes:
       - .:/data_worker
+
+
+
+# Change build context so that one file at highest level can be used
+
+# in docker-compose
+  
+  # test:
+  #   build:
+  #     context: .
+  #     dockerfile: ./docker/web/Dockerfile
+  #   ports:
+  #    - "5000:5000"
+  #   volumes:
+  #    - .:/code
+
+  # in specific Dockerfile
+
+
+# COPY config-on-root.ini /   #Copies config-on-root.ini file into current context '/'
+# COPY docker/web/some-other-config.ini /
