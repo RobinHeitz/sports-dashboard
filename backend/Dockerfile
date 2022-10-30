@@ -1,17 +1,19 @@
 FROM python:latest
 
 # Set working directory
-WORKDIR /web
+WORKDIR /backend
 
-COPY ./requirements.txt /web
+COPY ./requirements.txt /backend
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
 #Copy scripts to folder
-COPY . /web
+COPY . /backend/
 
 
 #Run cmd:
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
+CMD ["python" "start_backend.py"]
+
+# CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
 
 
