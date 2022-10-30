@@ -1,7 +1,10 @@
 import time
 
+import common.logging_setup as log_setup
+
+logger = log_setup.setup_logger("data_worker")
+
 
 while True:
-
-    print("Working ...")
-    time.sleep(10)
+    logger.debug("Working ...")
+    time.sleep(1)

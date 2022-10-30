@@ -1,7 +1,4 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
-from pathlib import Path
-from functools import partial
 
 import common.schemas as schemas
 import data_management.data_controller as dc
