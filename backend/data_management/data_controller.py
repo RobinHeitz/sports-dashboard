@@ -6,10 +6,12 @@ from contextlib import contextmanager
 from sqlalchemy.orm.session import Session
 
 from . import model as mdl
-import backend.common.schemas as schemas
+
+from common import schemas
+# import backend.common.schemas as schemas
 
 
-SQLALCHEMY_DATABASE_URL = "sqlite:///backend/db.sqlite"
+SQLALCHEMY_DATABASE_URL = "sqlite:///db.sqlite"
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
 )
