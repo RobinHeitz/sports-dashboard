@@ -5,4 +5,4 @@
 *.sqlite
 
 # Webserver stuff
-webserver/env_webserver/
+/backend/env_backend/

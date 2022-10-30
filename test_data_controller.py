@@ -1,10 +1,15 @@
-from webserver.data_management.data_controller import session_context
-
-import common.schemas
+from backend.common.schemas import Competition
+from backend.data_management import model as mdl, data_controller as dc
 
 if __name__ == "__main__":
 
-    with session_context() as session:
+    with dc.session_context() as session:
         ...
+
+        query = session.query(mdl.Competition).all()
+        print(query)
+
+        session.add(mdl.Competition())
+        session.commit()
 
     
