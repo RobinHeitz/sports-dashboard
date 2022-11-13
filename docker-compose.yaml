@@ -8,14 +8,12 @@ services:
   #   volumes:
   #     - .:/web
   
-  # backend:
-  #   build:
-  #     context: ./
-  #     dockerfile: .data_worker/Dockerfile
-  #   container_name: data_worker
-  #   command: python main.py
-  #   volumes:
-  #     - .:/data_worker
+  backend:
+    build: backend
+    container_name: backend
+    command: python start_backend.py
+    volumes:
+      - .:/backend
 
 
 

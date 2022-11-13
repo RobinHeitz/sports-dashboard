@@ -29,7 +29,7 @@ def data_func():
 if __name__ == "__main__":
     ...
 
-    threading.Thread(target=data_func, args=(), daemon=True).start()
+    # threading.Thread(target=data_func, args=(), daemon=True).start()
 
     uvicorn.run("webserver.main:app",host="0.0.0.0", port=80, log_level="info", reload=True)
 
