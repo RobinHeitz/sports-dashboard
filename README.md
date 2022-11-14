@@ -44,3 +44,6 @@ Copy to /usr/local/bin (for mac at least).
 
 
 
+##### Testing within /scraper
+
+python -m unittest tests/tests_handball.py 

@@ -1,57 +1,42 @@
 from time import sleep
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, ResultSet
 
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote import webelement
 
-from pyvirtualdisplay import Display, display
+from pyvirtualdisplay import Display
 
 from .definitions_hb import HandballPosition, HandballStageEnum, HandballStanding, HandballTypeEnum
 
 from pathlib import Path
 
-def _get_test_file_path()-> Path:
-    """Depending on which directory in console handball.py gets started, path needs to change."""
-    path = Path("handball/test_table_body.txt")
-    if path.exists():
-        return path
-    return Path("test_table_body.txt")
-
-
-def _bl_standings_html_code(testing = True):
-    if testing == True:
-        path = _get_test_file_path()
-        with open(path) as f:
-            lines =  "".join(f.readlines())
-            return lines
-
-    url = "https://www.liquimoly-hbl.de/de/liqui-moly-hbl/tabelle/saisonen/tabelle/saison-22-23/gesamt-tabelle/"
-    table_body_xpath = '//*[@id="standings2028776"]/div/table/tbody'
-    return _get_html_from_website(url,table_body_xpath)
-
-
+from typing import List
 
 
 def _get_html_from_website(url:str, xpath:str):
     """Using seleniums webdriver for returning website's html code for given url and x-path."""
-    display = Display(visible=0, size=(800,600))
+    display = Display(visible=False, size=(1024,768))
     display.start()
-    browser = webdriver.Chrome()
+
+    chromeOptions = Options()
+    chromeOptions.headless = True
+    
+    browser = webdriver.Chrome(options=chromeOptions)
     browser.get(url)
     sleep(2)
     table:webelement.WebElement = browser.find_element(By.XPATH,xpath)
     html_code = table.get_attribute("innerHTML")
+    
+    browser.quit()
+    display.stop()
+    
     return html_code
 
 
-
-def get_bl_standing(testing = True) -> HandballStanding:
-    """Returns """
-
-    html_code = _bl_standings_html_code(testing = testing)
-    soup = BeautifulSoup(html_code, "html.parser")
-    rows = soup.find_all("tr")
+def _parse_positions_from_html_code(rows:ResultSet) -> List[HandballPosition]:
+    positions = []
 
     attrs = (
         dict(attr_key = "position", parse_f = lambda e: list(e.children)[-1]), 
@@ -65,9 +50,6 @@ def get_bl_standing(testing = True) -> HandballStanding:
         dict(attr_key = "goals_for",), 
         dict(attr_key = "goals_against",),
     )
-
-    positions = list()
-
     for row in rows:
         tds = row.find_all("td")
 
@@ -80,19 +62,22 @@ def get_bl_standing(testing = True) -> HandballStanding:
         handball_pos = HandballPosition(**current_team)
 
         positions.append(handball_pos)
+        return positions
+
+
+
+def get_bl_standing(url:str, xpath:str) -> HandballStanding:
+    """Returns """
+    html_code = _get_html_from_website(url, xpath)
+
+    soup = BeautifulSoup(html_code, "html.parser")
+    rows = soup.find_all("tr")
     
+    positions = _parse_positions_from_html_code(rows)
 
-
-    standings =  HandballStanding(
+    return HandballStanding(
         competition_name="Liquimoly Handball-Bundesliga",
         table = positions, 
         type=HandballTypeEnum.TOTAL,
         stage=HandballStageEnum.REGULAR_SEASON,
     )
-    print(standings)
-    return standings
-
-get_cl_standing = get_bl_standing
-
-if __name__ == "__main__":
-    get_bl_standing(testing=True)

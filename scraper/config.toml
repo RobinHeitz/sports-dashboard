@@ -1,10 +1,8 @@
 
-[testing_settings]
 
-[testing_settings.handball]
-    bl = true
-    cl = false
-
-[testing_settings.football]
-    bl = false
-    cl = false
+[handball_bl]
+    testing = true
+    url = "https://www.liquimoly-hbl.de/de/liqui-moly-hbl/tabelle/saisonen/tabelle/saison-22-23/gesamt-tabelle/"
+    
+    # inspect the site for xpath of table item 
+    xpath = '//*[@id="standings2028776"]/div/table/tbody'
