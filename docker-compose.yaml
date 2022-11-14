@@ -1,37 +1,17 @@
 services:
-  # web:
-  #   build: webserver
-  #   container_name: webserver
-  #   command: uvicorn main:app --host 0.0.0.0 --port 80 --reload --reload-include *.yaml
-  #   ports:
-  #     - 8000:80
-  #   volumes:
-  #     - .:/web
   
   backend:
     build: backend
     container_name: backend
-    command: python start_backend.py
+    command: uvicorn backend.main:app --host 0.0.0.0 --port 80 --reload --reload-include *.yaml
+    ports:
+      - 8000:80
     volumes:
       - .:/backend
-
-
-
-# Change build context so that one file at highest level can be used
-
-# in docker-compose
   
-  # test:
-  #   build:
-  #     context: .
-  #     dockerfile: ./docker/web/Dockerfile
-  #   ports:
-  #    - "5000:5000"
+  # scraper:
+  #   build: scraper
+  #   container_name: scraper
+  #   command: python start_scraping.py
   #   volumes:
-  #    - .:/code
-
-  # in specific Dockerfile
-
-
-# COPY config-on-root.ini /   #Copies config-on-root.ini file into current context '/'
-# COPY docker/web/some-other-config.ini /
+  #     - .:/scraper

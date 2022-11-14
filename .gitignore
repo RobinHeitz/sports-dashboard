@@ -6,3 +6,7 @@
 
 # Webserver stuff
 /backend/env_backend/
+
+
+# scraper stuff
+/scraper/env_scraper/

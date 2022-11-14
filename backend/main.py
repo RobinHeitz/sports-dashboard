@@ -1,7 +1,9 @@
 from fastapi import FastAPI
-from common import schemas
 
-from data_management import model, data_controller
+from .common import logging_setup, schemas
+
+from .data_management import model
+
 
 
 ##################
@@ -42,21 +44,10 @@ def get_fb_bl_standings():
     return data_store.get("fb_cl")
 
 
-@app.get("/testing")
-def get_test_data():
+############################
+### POST DATA TO BACKEND ###
+############################
+
+@app.post("testing_stuff")
+def post_something():
     ...
-
-    with data_controller.session_context() as session:
-        query = session.query(model.Competition).all()
-        return f"Competition-instances in db: {query=}"
-
-
-#####################
-### POST NEW DATA ###
-#####################
-
-@app.post("/handball/standing/bl")
-def post_hb_bl_standing(new_standing: schemas.Standing):
-    # dc.create_standing(new_standing)
-    ...
-    

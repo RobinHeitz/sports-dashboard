@@ -1,0 +1,10 @@
+
+[testing_settings]
+
+[testing_settings.handball]
+    bl = true
+    cl = false
+
+[testing_settings.football]
+    bl = false
+    cl = false
