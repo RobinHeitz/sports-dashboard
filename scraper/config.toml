@@ -1,8 +1,8 @@
 
 
 [handball_bl]
-    testing = true
-    url = "https://www.liquimoly-hbl.de/de/liqui-moly-hbl/tabelle/saisonen/tabelle/saison-22-23/gesamt-tabelle/"
+    testing = false
+    url = "https://www.liquimoly-hbl.de/de/liqui-moly-hbl/spielplan/saisonen/spielplan/saison-23-24/spielplan-nach-spieltagen/"
     
     # inspect the site for xpath of table item 
-    xpath = '//*[@id="standings2028776"]/div/table/tbody'
+    xpath = '//*[@id="schedule2164892"]'

@@ -29,7 +29,7 @@ class HandballStanding(BaseModel):
 class HandballPosition(BaseModel):
     """Standing of a particular handball team in specific competition."""
     position: int
-    team:str
+    team: str
     played_games: str
     won:int
     draw:int

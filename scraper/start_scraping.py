@@ -1,51 +1,33 @@
-import toml
-from pathlib import Path
-import threading
-import requests
+from selenium import webdriver
+from selenium.webdriver import chromium
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from pyvirtualdisplay import Display
 
-from handball import handball
+# set xvfb display since there is no GUI in docker container.
 
+display = Display(visible=False, size=(1024, 768))
+display.start()
 
-HANDBALL_BL = "handball_bl"
+chrome_options = Options()
+# chrome_options.BinaryLocation = "/usr/bin/chromium-browser"
+chrome_options.headless = True
 
+service = Service(executable_path='/usr/local/bin/chromedriver')
 
-def main():
-    ...
-    p = Path("config.toml")
-    with open(p) as f:
-        config = toml.load(f)
-    
-    scrape_handball_bl(config.get(HANDBALL_BL))
-
-
-
-def scrape_handball_bl(hb_config):
-    print("scrape_handball_bl")
-
-    testing = hb_config.get("testing", False)
-    url = hb_config.get("url")
-    xpath = hb_config.get("xpath")
-
-    print(f"{url=}| {testing=} | {xpath=}")
-
-    handball.get_bl_standing(url, xpath)
+driver = webdriver.Chrome(options=chrome_options)
+driver.get("https://www.google.com")
 
 
+# chrome_options.add_argument('--no-sandbox')
+# chrome_options.add_argument('--disable-dev-shm-usage')
+# chrome_options.add_argument("--window-size=1920,1200")
+# options.headless = True
+
+# driver = webdriver.Chrome(options=chrome_options)
+
+# browser = webdriver.Chrome(options=chrome_options)
+# browser.get("https://google.de")
 
 
-
-
-
-if __name__ == "__main__":
-    main()
-
-
-
-
-
-
-
-
-
-
-
+print("init chrome")

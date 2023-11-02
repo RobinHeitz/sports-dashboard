@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import List
 
 
-def _get_html_from_website(url:str, xpath:str):
+def get_html_from_website(url:str, xpath:str):
     """Using seleniums webdriver for returning website's html code for given url and x-path."""
     display = Display(visible=False, size=(1024,768))
     display.start()
@@ -35,11 +35,11 @@ def _get_html_from_website(url:str, xpath:str):
     return html_code
 
 
-def _parse_positions_from_html_code(rows:ResultSet) -> List[HandballPosition]:
+def parse_positions_from_html_code(rows:ResultSet) -> List[HandballPosition]:
     positions = []
 
     attrs = (
-        dict(attr_key = "position", parse_f = lambda e: list(e.children)[-1]), 
+        dict(attr_key="position", parse_f = lambda e: list(e.children)[-1]),
         dict(attr_key = "team", parse_f = lambda e: e.find("a").contents[-1].strip("\n")), 
         dict(attr_key = "played_games", ),
         dict(attr_key = "won", ),
@@ -66,14 +66,13 @@ def _parse_positions_from_html_code(rows:ResultSet) -> List[HandballPosition]:
 
 
 
-def get_bl_standing(url:str, xpath:str) -> HandballStanding:
+def get_bl_standing(html_code) -> HandballStanding:
     """Returns """
-    html_code = _get_html_from_website(url, xpath)
-
     soup = BeautifulSoup(html_code, "html.parser")
     rows = soup.find_all("tr")
     
-    positions = _parse_positions_from_html_code(rows)
+    positions = parse_positions_from_html_code(rows)
+    return positions
 
     return HandballStanding(
         competition_name="Liquimoly Handball-Bundesliga",

@@ -1,17 +1,9 @@
 services:
   
-  backend:
-    build: backend
-    container_name: backend
-    command: uvicorn backend.main:app --host 0.0.0.0 --port 80 --reload --reload-include *.yaml
-    ports:
-      - 8000:80
+  scraper:
+    build: scraper
+    # restart: always
+    container_name: scraper
+    command: python3 start_scraping.py
     volumes:
-      - .:/backend
-  
-  # scraper:
-  #   build: scraper
-  #   container_name: scraper
-  #   command: python start_scraping.py
-  #   volumes:
-  #     - .:/scraper
+      - ./scraper:/scraper

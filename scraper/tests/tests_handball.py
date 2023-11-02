@@ -22,7 +22,7 @@ class TestVirtualDisplay(TestCase):
         chromeOptions = Options()
         chromeOptions.headless = True
 
-        self.browser = webdriver.Chrome(options=chromeOptions)
+        self.browser = webdriver.Chrome(executable_path="", options=chromeOptions)
     
     def tearDown(self) -> None:
         self.browser.quit()
