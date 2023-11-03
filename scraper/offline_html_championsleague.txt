@@ -1,0 +1,1118 @@
+<html class="no-outline no-touchevents" lang="en"><head>
+  <title>Machineseeker EHF Champions League - Matches | EHF</title>
+
+
+
+
+<meta charset="UTF-8">
+<!-- meta information -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="theme-color" content="#bea055">
+
+<!-- disabling format detection -->
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+<!-- ./disabling format detection -->
+  <meta property="fb:pages" content="391734994208331">
+<!-- social media tags -->
+
+
+<meta name="description" content="News ✓Results ✓Game Highlights ✓ Man of the Match ➤ EHF: Home of Handball.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Machineseeker EHF Champions League - Matches | EHF">
+<meta property="og:url" content="https://ehfcl.eurohandball.com/men/2023-24/matches/">
+<meta property="og:description" content="News ✓Results ✓Game Highlights ✓ Man of the Match ➤ EHF: Home of Handball.">
+<meta property="og:image" content="https://ehfcl.eurohandball.com/media/ftzlfmxp/golden_cl_-star_dark_background_1200x1200.jpg?anchor=center&amp;mode=crop&amp;width=1200&amp;height=630&amp;rnd=133269860054670000">
+
+
+
+<!-- ./social media tags -->
+<!-- webmanifest -->
+<link rel="manifest" href="/frontend.kw/dist/assets/img/favicons/site.webmanifest">
+<!-- favicons -->
+<link href="/frontend.kw/dist/assets/img/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="/frontend.kw/dist/assets/img/favicons/android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/frontend.kw/dist/assets/img/favicons/android-chrome-512x512.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/frontend.kw/dist/assets/img/favicons/apple-touch-icon.png">
+
+<link rel="icon" type="image/png" href="/frontend.kw/dist/assets/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/frontend.kw/dist/assets/img/favicons/favicon-32x32.png" sizes="32x32">
+
+<!-- resource hints -->
+<link rel="preload" type="application/javascript" href="/assets/js/plugin.bundle.js?v=1dwPFcx-Ma0P4w5u1azli9dRWFeGD1UoSqc6Twzzo3Q1" as="script">
+<link rel="preload" type="application/javascript" href="/assets/js/common.bundle.js?v=4b4ZsR9VAN7gWpQYdBHLJnBkSHSEi2sX_WxRRtchQaI1" as="script">
+<link rel="preload" type="application/javascript" href="/assets/js/first-input-delay.bundle.js?v=qXRyDfwtuc8Xv6Wd02qR2XX946zDHctV97cbr2ZMGZc1" as="script">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ehf-icons.woff" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/FormulaCondensed-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ibm-plex-sans-v7-latin_latin-ext-300.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ibm-plex-sans-v7-latin_latin-ext-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ibm-plex-sans-v7-latin_latin-ext-500.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ibm-plex-sans-v7-latin_latin-ext-600.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ibm-plex-sans-v7-latin_latin-ext-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ibm-plex-mono-v5-latin_latin-ext-500.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/frontend.kw/dist/assets/font/ibm-plex-mono-v5-latin_latin-ext-600.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<!-- minutely script -->
+<script src="https://cdn.iubenda.com/iubenda.js"></script><script async="" src="https://cs.iubenda.com/cookie-solution/confs/js/30710801.js"></script><script src="https://cdn.iubenda.com/cookie_solution/iubenda_cs/1.52.0/core-en.js" charset="UTF-8"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TDFG88N"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/rkGQBllnui8Z9Vv5iu6Sdetn5IwSDZlC/analytics.min.js"></script><script async="" type="text/javascript" class="_iub_cs_activate" data-iub-purposes="3" data-suppressedsrc="//apv-launcher.minute.ly/api/launcher/MIN-41600.js" charset="utf-8"></script>
+
+<!-- first input delay -->
+<script src="/assets/js/first-input-delay.bundle.js?v=qXRyDfwtuc8Xv6Wd02qR2XX946zDHctV97cbr2ZMGZc1"></script>
+
+
+<script>
+  perfMetrics.onFirstInputDelay(function (delay, evt) {
+    console.log('First Input Delay', delay);
+    console.log('Event details', evt);
+  });
+</script>
+
+
+<!-- ./critical css -->
+<style>/* Bundle=System.Web.Optimization.Bundle;Boundary=MgAxADMAMQAyADAAOAAxADcA; */
+/* MgAxADMAMQAyADAAOAAxADcA "/frontend.kw/dist/assets/css/critical.css" */
+@charset "UTF-8";html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}a{background-color:transparent}img{border-style:none}button,input{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button{text-transform:none}[type=button],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}:root{--theme-brand:#1e78ff;--theme-brand-rgb:30,120,255;--theme-dark:#003380;--theme-medium-dark:#0569ff;--theme-medium-light:#3888ff;--theme-light:#e6f0ff;--theme-lighter:#f5f9ff;--black:#000;--gray-1:#3d3f43;--gray-2:#797e86;--gray-3:#bcbfc2;--gray-4:#f2f2f3;--gray-5:#fafafa;--gray-6:#dddfe3;--gray-7:#a3a9ae;--white:#fff;--color-headline:#001432;--color-text:#48535e;--color-border:#efefef;--focus-outline:3px dashed #21d360;--box-shadow-big1:0 0.7px 4px -5px rgba(0, 0, 0, 0.061);--box-shadow-big2:0 2.2px 10px -5px rgba(0, 0, 0, 0.089);--box-shadow-big3:0 10px 43px -5px rgba(0, 0, 0, 0.15);--box-shadow-big:var(--box-shadow-big1),var(--box-shadow-big2),var(--box-shadow-big3);--box-shadow-big-hover:var(--box-shadow-big1),var(--box-shadow-big2),0 10px 43px -5px rgba(0, 0, 0, 0.25);--box-shadow-small1:0 0.6px 2.3px -5px rgba(0, 0, 0, 0.075);--box-shadow-small2:0 5px 15px -5px rgba(0, 0, 0, 0.15);--box-shadow-small:var(--box-shadow-small1),var(--box-shadow-small2);--box-shadow-small-hover:var(--box-shadow-small1),0 5px 15px -5px rgba(0, 0, 0, 0.25);--hoh-body-bg:#16191d;--hoh-header-bg:#24272e;--font-icons:"ehf-icons";--base-font-family:"IBM Plex Sans",sans-serif;--headline-font-family:"Formula Condensed",sans-serif;--mono-font-family:"IBM Plex Mono",sans-serif;--headline-letter-spacing:0.085rem;--base-font-size:16px;--base-line-height:1;--line-height-text:1.6;--font:var(--base-font-family);--container-wide:120rem;--container-big:74.125rem;--container-medium:61.5rem;--container-small:49.125rem;--container-padding:1rem;--z-index-loader:1000;--z-index-page-header:1001;--z-index-cookie:999;--z-index-mobile-nav:1001;--z-index-mobile-overlay:1000;--z-index-nav-sub:1001;--z-index-logo:10;--z-index-mobile-nav-header:5;--z-index-pageup:5;--z-index-dropdown:1;--z-index-modal:1002;--z-index-modal-backdrop:1001;--z-index-flickity-fullscreen:9999;--z-index-sticky-sponsor:1002;--form-field-columns:1;--form-field-gap:25px;--input-border-color:#808998;--input-error-color:#eb505a;--primary-button-color:#fff;--header-bg:#001432;--header-bg-rgb:22,25,29;--nav-bg:#001432;--nav-border-color:#1c2023;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:#001432;--statistic-row-color:#fff;--footer-bg:#001432;--livescore-tournaments-bg:#bfc4cc;--grid-slider-overlay:rgba(0, 20, 50, 0.5);--grid-slider-overlay-hover:rgba(0, 20, 50, 0)}.theme--ochre{--theme-brand:#bea055;--theme-brand-rgb:190,160,85;--theme-dark:#5c4c23;--theme-medium-dark:#b59545;--theme-medium-light:#c5aa68;--theme-light:#f8f5ed;--theme-lighter:#fcfbf8;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:var(--theme-brand);--statistic-row-color:#fff;--livescore-tournaments-bg:#bea055;--livescore-tournaments-border:#796535}.theme--red{--theme-brand:#e64115;--theme-brand-rgb:230,65,21;--theme-dark:#75210b;--theme-medium-dark:#ce3a13;--theme-medium-light:#eb5128;--theme-light:#fdece8;--theme-lighter:#fef7f6;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:var(--theme-brand);--statistic-row-color:#fff;--livescore-tournaments-bg:#e64115;--livescore-tournaments-border:#962b0d}.theme--yellow{--theme-brand:#ffca00;--theme-brand-rgb:255,202,0;--theme-dark:#806200;--theme-medium-dark:#e6b800;--theme-medium-light:#ffd11a;--theme-light:#fff9e6;--theme-lighter:#fffdf5;--theme-secondary-darker:#1f212d;--theme-secondary-dark:#34364b;--theme-secondary:#2d3486;--primary-button-color:#fff;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:#ffc300;--statistic-row-color:#fff;--livescore-tournaments-bg:#bfc4cc}.flickity-button{position:absolute;background:hsla(0deg,0%,100%,.75);border:none;color:#333}.flickity-button-icon{fill:currentColor}.flickity-prev-next-button{top:50%;width:44px;height:44px;border-radius:50%;transform:translateY(-50%)}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-prev-next-button .flickity-button-icon{position:absolute;left:20%;top:20%;width:60%;height:60%}@font-face{font-family:ehf-icons;src:url(../../assets/font/ehf-icons.ttf?q23ctg) format("truetype"),url(../../assets/font/ehf-icons.woff?q23ctg) format("woff"),url(../../assets/font/ehf-icons.svg?q23ctg#ehf-icons) format("svg");font-weight:400;font-style:normal;font-display:block}[class*=" ehf-"]{font-family:ehf-icons!important;speak:never;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.ehf-logged-out:before{content:"\e941"}.ehf-archive:before{content:"\e910"}.ehf-calendar:before{content:"\e905"}.ehf-modern-tv-curvy:before{content:"\e929"}.ehf-search:before{content:"\e91f"}.ehf-ticket:before{content:"\e916"}.ehf-times:before{content:"\e920"}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}*{box-sizing:border-box}::after,::before{box-sizing:border-box}:focus{outline:var(--focus-outline)}html{font-size:100%;scroll-behavior:smooth;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility;font-feature-settings:"kern";-webkit-font-feature-settings:"kern";-moz-font-feature-settings:"kern";-moz-font-feature-settings:"kern=1"}body{font-family:var(--base-font-family);font-size:var(--base-font-size);font-weight:400;line-height:var(--base-line-height);color:var(--color-text);padding:0;height:100%}img{vertical-align:middle}a{color:var(--theme-brand);text-decoration:none}.container-full-width{width:100%;position:relative}.container-wide{width:100%;max-width:var(--container-wide);position:relative;margin-left:auto;margin-right:auto}button{padding:0;border:0;outline:0;background:0}.text-input-wrapper{position:relative}.text-input{display:block;border:1px solid var(--input-border-color);border-radius:2px;width:100%;background:#fff;font-size:1rem;color:inherit}.text-input::-ms-clear{display:none}.text-input{padding:0 10px;height:40px}input[type=text]{-webkit-appearance:none}:root{--theme-brand:#1e78ff;--theme-brand-rgb:30,120,255;--theme-dark:#003380;--theme-medium-dark:#0569ff;--theme-medium-light:#3888ff;--theme-light:#e6f0ff;--theme-lighter:#f5f9ff;--black:#000;--gray-1:#3d3f43;--gray-2:#797e86;--gray-3:#bcbfc2;--gray-4:#f2f2f3;--gray-5:#fafafa;--gray-6:#dddfe3;--gray-7:#a3a9ae;--white:#fff;--color-headline:#001432;--color-text:#48535e;--color-border:#efefef;--focus-outline:3px dashed #21d360;--box-shadow-big1:0 0.7px 4px -5px rgba(0, 0, 0, 0.061);--box-shadow-big2:0 2.2px 10px -5px rgba(0, 0, 0, 0.089);--box-shadow-big3:0 10px 43px -5px rgba(0, 0, 0, 0.15);--box-shadow-big:var(--box-shadow-big1),var(--box-shadow-big2),var(--box-shadow-big3);--box-shadow-big-hover:var(--box-shadow-big1),var(--box-shadow-big2),0 10px 43px -5px rgba(0, 0, 0, 0.25);--box-shadow-small1:0 0.6px 2.3px -5px rgba(0, 0, 0, 0.075);--box-shadow-small2:0 5px 15px -5px rgba(0, 0, 0, 0.15);--box-shadow-small:var(--box-shadow-small1),var(--box-shadow-small2);--box-shadow-small-hover:var(--box-shadow-small1),0 5px 15px -5px rgba(0, 0, 0, 0.25);--hoh-body-bg:#16191d;--hoh-header-bg:#24272e;--font-icons:"ehf-icons";--base-font-family:"IBM Plex Sans",sans-serif;--headline-font-family:"Formula Condensed",sans-serif;--mono-font-family:"IBM Plex Mono",sans-serif;--headline-letter-spacing:0.085rem;--base-font-size:16px;--base-line-height:1;--line-height-text:1.6;--font:var(--base-font-family);--container-wide:120rem;--container-big:74.125rem;--container-medium:61.5rem;--container-small:49.125rem;--container-padding:1rem;--z-index-loader:1000;--z-index-page-header:1001;--z-index-cookie:999;--z-index-mobile-nav:1001;--z-index-mobile-overlay:1000;--z-index-nav-sub:1001;--z-index-logo:10;--z-index-mobile-nav-header:5;--z-index-pageup:5;--z-index-dropdown:1;--z-index-modal:1002;--z-index-modal-backdrop:1001;--z-index-flickity-fullscreen:9999;--z-index-sticky-sponsor:1002;--form-field-columns:1;--form-field-gap:25px;--input-border-color:#808998;--input-error-color:#eb505a;--primary-button-color:#fff;--header-bg:#001432;--header-bg-rgb:22,25,29;--nav-bg:#001432;--nav-border-color:#1c2023;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:#001432;--statistic-row-color:#fff;--footer-bg:#001432;--livescore-tournaments-bg:#bfc4cc;--grid-slider-overlay:rgba(0, 20, 50, 0.5);--grid-slider-overlay-hover:rgba(0, 20, 50, 0)}.theme--ochre{--theme-brand:#bea055;--theme-brand-rgb:190,160,85;--theme-dark:#5c4c23;--theme-medium-dark:#b59545;--theme-medium-light:#c5aa68;--theme-light:#f8f5ed;--theme-lighter:#fcfbf8;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:var(--theme-brand);--statistic-row-color:#fff;--livescore-tournaments-bg:#bea055;--livescore-tournaments-border:#796535}.theme--red{--theme-brand:#e64115;--theme-brand-rgb:230,65,21;--theme-dark:#75210b;--theme-medium-dark:#ce3a13;--theme-medium-light:#eb5128;--theme-light:#fdece8;--theme-lighter:#fef7f6;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:var(--theme-brand);--statistic-row-color:#fff;--livescore-tournaments-bg:#e64115;--livescore-tournaments-border:#962b0d}.theme--yellow{--theme-brand:#ffca00;--theme-brand-rgb:255,202,0;--theme-dark:#806200;--theme-medium-dark:#e6b800;--theme-medium-light:#ffd11a;--theme-light:#fff9e6;--theme-lighter:#fffdf5;--theme-secondary-darker:#1f212d;--theme-secondary-dark:#34364b;--theme-secondary:#2d3486;--primary-button-color:#fff;--table-header:var(--theme-medium-light);--table-caption:var(--theme-brand);--statistic-row-bg:#ffc300;--statistic-row-color:#fff;--livescore-tournaments-bg:#bfc4cc}.footer{background-color:var(--footer-bg);background-size:cover;background-position:center;background-repeat:no-repeat}@media (min-width:62rem){.footer{padding:50px 0 130px 0}}@media (max-width:61.98rem){.footer{padding:30px 0 75px 0}}.footer-links-toggle{line-height:1.3;color:var(--white);font-weight:600;text-align:left}@media (min-width:62rem){.footer-links-toggle{display:inline-block;margin-bottom:20px}}@media (max-width:61.98rem){.footer-links-toggle{position:relative;display:block;width:100%;font-size:.875rem}.footer-links-toggle:not(:first-child){margin-top:20px}}@media (max-width:61.98rem){.footer-links-toggle::after{content:"\e90d";font-family:var(--font-icons);font-size:.6875rem;position:absolute;bottom:0;right:10px}}@media (min-width:62rem){button.footer-links-toggle{display:none}}.grid-slider{position:relative}@media (min-width:62rem){.grid-slider{display:grid;grid-template-columns:repeat(3,1fr)}.grid-slider::after{content:""}}@media (max-width:61.98rem){.grid-slider::after{content:"flickity";display:none}}@media (min-width:62rem){.grid-slider .grid-slide:nth-child(1){grid-column:span 2;grid-row:span 2;height:600px}.grid-slider .grid-slide:nth-child(1) .grid-slide-headline-wrapper{bottom:30px;left:30px;right:30px}.grid-slider .grid-slide:nth-child(1) .grid-slide-headline{font-size:5rem}}@media (max-width:61.98rem){.grid-slider .grid-slide:nth-child(1) .grid-slide-headline{font-size:4rem}}@media (max-width:35.98rem){.grid-slider .grid-slide:nth-child(1) .grid-slide-headline{font-size:2.75rem}}@media (max-width:359px){.grid-slider .grid-slide:nth-child(1) .grid-slide-headline{font-size:2.25rem}}@media (min-width:62rem){.grid-slider .grid-slide:nth-child(2){grid-column:span 1;grid-row:span 1;height:300px}.grid-slider .grid-slide:nth-child(2) .grid-slide-headline-wrapper{bottom:20px;left:20px;right:20px}.grid-slider .grid-slide:nth-child(2) .grid-slide-headline{font-size:2.25rem}}@media (max-width:61.98rem){.grid-slider .grid-slide:nth-child(2) .grid-slide-headline{font-size:4rem}}@media (max-width:35.98rem){.grid-slider .grid-slide:nth-child(2) .grid-slide-headline{font-size:2.75rem}}@media (max-width:359px){.grid-slider .grid-slide:nth-child(2) .grid-slide-headline{font-size:2.25rem}}@media (min-width:62rem){.grid-slider .grid-slide:nth-child(3){grid-column:span 1;grid-row:span 1;height:300px}.grid-slider .grid-slide:nth-child(3) .grid-slide-headline-wrapper{bottom:20px;left:20px;right:20px}.grid-slider .grid-slide:nth-child(3) .grid-slide-headline{font-size:2.25rem}}@media (max-width:61.98rem){.grid-slider .grid-slide:nth-child(3) .grid-slide-headline{font-size:4rem}}@media (max-width:35.98rem){.grid-slider .grid-slide:nth-child(3) .grid-slide-headline{font-size:2.75rem}}@media (max-width:359px){.grid-slider .grid-slide:nth-child(3) .grid-slide-headline{font-size:2.25rem}}.grid-slide{width:100%}@media (min-width:62rem){.grid-slide{position:relative}.grid-slide:not(:first-child)::before{content:"";position:absolute;top:0;z-index:1;left:0;width:100%;height:100%;background:var(--grid-slider-overlay);opacity:1}}.grid-slide-link{display:block;overflow:hidden;height:100%}.grid-slide-image{object-fit:cover;width:100%}@media (min-width:62rem){.grid-slide-image{height:100%}}@media (max-width:61.98rem){.grid-slide-image{height:440px;opacity:0}}@media (max-width:35.98rem){.grid-slide-image{height:350px}}.grid-slide-headline-wrapper{position:absolute;z-index:2}@media (max-width:61.98rem){.grid-slide-headline-wrapper{bottom:30px;left:15px;right:15px}}.grid-slide-headline-wrapper .tag+.grid-slide-headline{margin-top:15px}.grid-slide-headline{display:block;font-family:var(--headline-font-family);text-transform:uppercase;letter-spacing:var(--headline-letter-spacing);line-height:1.1;color:var(--white);text-shadow:0 2px 4px rgba(0,0,0,.25)}.header{background-color:var(--header-bg);z-index:var(--z-index-page-header);position:-webkit-sticky;position:sticky;top:-1px}.header-inner-container{position:relative;z-index:2;max-width:var(--container-wide);display:flex;margin:0 auto}@media (min-width:62rem){.header-inner-container{height:5rem}}@media (max-width:61.98rem){.header-inner-container{height:3.125rem}}.header-logo-wrapper{text-align:center;flex-shrink:0}@media (min-width:62rem){.header-logo-wrapper{display:flex;justify-content:center;align-items:center;width:210px}}@media (max-width:61.98rem){.header-logo-wrapper{padding:0 16px}}.header-logo-anchor{display:inline-block}@media (min-width:62rem){.header-logo-anchor{height:80px}}@media (max-width:61.98rem){.header-logo-anchor{height:50px}}.header-logo-img{height:100%;width:auto}@media (min-width:62rem){.header-logo-img{padding:10px 0}}@media (max-width:61.98rem){.header-logo-img{padding:8px 0}}.header-search-btn{color:var(--white);margin-left:auto;border-bottom:2px solid transparent;outline-offset:-3px;padding:0;text-align:center;flex-shrink:0}@media (min-width:62rem){.header-search-btn>span{margin-top:6px;font-size:12px;line-height:1.25;font-family:var(--base-font-family);text-transform:none}}@media (max-width:61.98rem){.header-search-btn>span{display:none}}@media (min-width:62rem){.header-search-btn{font-size:1.5rem;padding:0 30px;line-height:1;height:80px;display:flex;flex-direction:column;justify-content:center;align-items:center;width:80px}}@media (max-width:61.98rem){.header-search-btn{font-size:1.25rem;width:50px}}.header-search{background-color:var(--header-bg);position:absolute;top:0;right:0;width:0;height:100%;z-index:2;overflow:hidden;transform-origin:right}.header-search .text-input-wrapper{height:100%}.header-search .text-input-wrapper::after{content:"\e91f";font-family:var(--font-icons);position:absolute;top:50%;left:15px;transform:translateY(-50%)}@media (min-width:62rem){.header-search .text-input-wrapper::after{font-size:1.5rem}}@media (max-width:61.98rem){.header-search .text-input-wrapper::after{font-size:1rem}}@media (min-width:62rem){.header-search .text-input-wrapper{padding:15px 0}}@media (max-width:61.98rem){.header-search .text-input-wrapper{padding:10px 0}}.header-search .text-input-wrapper .text-input{height:100%;padding-right:32px;border-radius:5px}@media (min-width:62rem){.header-search .text-input-wrapper .text-input{padding-left:70px}}@media (max-width:61.98rem){.header-search .text-input-wrapper .text-input{padding-left:50px}}.header-search-inner{position:relative;max-width:1335px;height:100%;padding-right:15px;padding-left:15px}.header-search-close{position:absolute;right:15px;font-size:.75rem;outline-offset:-3px;font-weight:700;width:40px}@media (min-width:62rem){.header-search-close{top:15px;height:50px}}@media (max-width:61.98rem){.header-search-close{top:10px;height:30px}}@media (min-width:62rem){.livescore-tournaments{height:90px}}@media (max-width:61.98rem){.livescore-tournaments{height:125px}}@media (min-width:62rem){.livescore-tournaments-inner{display:flex}}@media (min-width:62rem){.lt-tab-wrapper{width:100px;flex-shrink:0}}@media (max-width:61.98rem){.lt-tab-wrapper{display:flex}}.lt-tab{background-color:#001432;font-size:.625rem;color:var(--white);outline-offset:-3px}@media (min-width:62rem){.lt-tab{width:100%;height:45px;line-height:45px}}@media (max-width:61.98rem){.lt-tab{width:50%;height:35px;line-height:35px}}.lt-tab.is--active{background-color:#0096da}.lt-tab-content{display:none}@media (min-width:62rem){.lt-tab-content{width:calc(100% - 100px)}}.lt-tab-content.is--active{display:block}.scrollbooster-carousel{position:relative}.scrollbooster-carousel .flickity-button{z-index:1}@media (max-width:61.98rem){.scrollbooster-carousel .flickity-button.flickity-prev-next-button{display:block;width:30px;height:30px;line-height:30px}.scrollbooster-carousel .flickity-button.flickity-prev-next-button::before{line-height:30px}.scrollbooster-carousel .flickity-button.flickity-prev-next-button.next{right:5px}.scrollbooster-carousel .flickity-button.flickity-prev-next-button.previous{left:5px}}.scrollbooster-carousel.boundry--left .flickity-button.previous{display:none}.lt-viewport{position:relative;width:100%;height:100%;overflow:hidden}.lt-content{display:flex;height:100%}.lt-day{width:40px;background-color:#efefef;flex-shrink:0;border-right:1px solid #d9d9d9}.lt-month{display:block;height:20px;line-height:20px;font-size:.625rem;text-transform:uppercase;border-bottom:1px solid #e6e6e6;text-align:center;font-weight:700;color:var(--theme-brand)}.lt-date{display:block;height:70px;line-height:70px;font-family:var(--mono-font-family);font-size:1.25rem;text-align:center;font-weight:700;letter-spacing:0;color:var(--theme-brand)}.livescore{min-width:170px;border-right:1px solid #d9d9d9;color:var(--color-text);outline-offset:-3px;flex-shrink:0}.livescore.is--live .l-score{color:red}.livescore.is--half-time .l-score{opacity:.5}.livescore.is--completed .is--winner .l-score{color:#1e78ff}.livescore.is--pending .l-score{width:7px;height:1px;background-color:var(--color-text)}.l-header{display:flex;align-items:center;padding:2px 8px;height:20px;background-color:var(--livescore-tournaments-bg);border-bottom:1px solid var(--livescore-tournaments-border);font-size:.625rem;color:var(--white);white-space:nowrap}.l-league{margin-right:20px;font-weight:600}.l-icon-live{width:5px;height:5px;border-radius:50%;background-color:red;margin-left:auto}.l-icon-live+.l-time{margin-left:20px}.l-time{margin-left:auto}.l-team{display:flex;align-items:center;height:35px;padding:5px 8px 5px 8px}.l-flag{width:24px;height:auto;margin-right:5px}.l-name{margin-right:10px;font-size:.6875rem;font-weight:600}.l-score{margin-left:auto;font-size:.6875rem;font-weight:600;font-family:var(--mono-font-family)}.tournament{min-width:170px;border-right:1px solid #d9d9d9}.t-header{display:flex;align-items:center;padding:2px 8px;height:20px;background-color:var(--livescore-tournaments-bg);border-bottom:1px solid var(--theme-medium-dark);font-size:.625rem;color:var(--white)}.t-league{font-weight:600}.t-date{margin-left:auto}.t-title{display:flex;align-items:center;height:50px;text-align:center;font-size:.6875rem;line-height:1.3;padding:5px 28px;font-weight:500}.t-link-wrapper{display:flex}.t-link{width:100%;height:20px;line-height:20px;text-align:center;background-color:var(--livescore-tournaments-bg);color:var(--white);font-size:.4375rem;display:flex;align-items:center;justify-content:center}.t-link+.t-link{border-left:1px solid rgba(255,255,255,.25)}.t-link .icon{display:inline-block;margin-right:5px;font-size:.75rem;vertical-align:middle}.nav-viewport{position:relative;width:100%;overflow:hidden}.nav-viewport::after,.nav-viewport::before{content:"";position:absolute;top:0;width:30px;height:100%;z-index:1}.nav-content{display:flex}.primary-nav{margin-right:30px}.secondary-nav{margin-left:auto}.secondary-nav .nav-list>li{padding:0 10px}.secondary-nav+.header-search-btn{margin-left:0}.nav-list{list-style:none;margin:0;padding:0;display:flex}.flyout{display:none;opacity:0;position:fixed;min-width:200px;background-color:var(--header-bg);z-index:var(--z-index-page-header)}.flyout a{display:block;padding:17px 10px;font-size:14px;line-height:1.28;color:#fff}.flyout a+a{border-top:1px solid rgba(255,255,255,.125)}.flyout::before{content:"";position:absolute;top:-6px;width:0;height:0;border-style:solid;border-width:0 7px 7px 7px;border-color:transparent transparent var(--header-bg) transparent}@media (min-width:62rem){.flyout::before{left:23px}}@media (max-width:61.98rem){.flyout::before{left:9px}}.nav-btn{display:block;color:var(--white);text-transform:uppercase;font-weight:600;white-space:nowrap;border-bottom:2px solid transparent;outline-offset:-3px}.nav-btn:link,.nav-btn:visited{text-decoration:none}.nav-btn.is--active{border-bottom:2px solid var(--white)}.nav-btn.is--active{background:rgba(255,255,255,.1)}@media (min-width:1500px){.nav-btn{padding:0 30px}}@media (max-width:1499px){.nav-btn{padding:0 20px}}@media (max-width:1299px){.nav-btn{padding:0 15px}}@media (min-width:62rem){.nav-btn{font-size:1.0625rem;line-height:calc(5rem - 2px)}}@media (max-width:61.98rem){.nav-btn{padding:0 10px;font-size:.75rem;line-height:calc(3.125rem - 2px)}}.nav-btn.icon{font-weight:400;padding:0;text-align:center}@media (min-width:62rem){.nav-btn.icon>span{margin-top:6px;font-size:12px;line-height:1.25;font-family:var(--base-font-family);text-transform:none}}@media (max-width:61.98rem){.nav-btn.icon>span{display:none}}@media (min-width:62rem){.nav-btn.icon{font-size:1.5rem;line-height:1;height:80px;display:flex;flex-direction:column;justify-content:center;align-items:center;width:60px}}@media (max-width:61.98rem){.nav-btn.icon{font-size:1.25rem;width:30px}}.subnav{display:none;z-index:var(--z-index-nav-sub);border-top:2px solid var(--nav-border-color)}@media (min-width:62rem){.subnav{position:absolute;top:80px;width:100%;opacity:0}}@media (max-width:61.98rem){.subnav{top:50px;background-color:var(--nav-bg);overflow:auto;height:0;padding:0}}@media (min-width:62rem){.subnav-inner-container{position:relative}}@media (max-width:61.98rem){.subnav-inner-container{padding:20px 85px 20px 85px}}@media (max-width:500px){.subnav-inner-container{padding:20px 23px 20px 13px}}.subnav-list{margin:0;list-style:none}@media (min-width:62rem){.subnav-list{background-color:var(--nav-bg);padding:50px 0 64px 0;min-height:450px}.subnav-list .subnav-btn,.subnav-list .subnav-link{position:relative;width:250px;z-index:1}}@media (max-width:61.98rem){.subnav-list{padding:0 0 64px 0}}.subnav-list .subnav-list{display:none;padding-left:20px}@media (min-width:62rem){.subnav-list[data-nav-level="2"]{position:relative}}@media (min-width:119rem){.subnav-list[data-nav-level="2"]>li{padding-left:calc((100% - 1920px)/ 2 + 235px)}}@media (min-width:62rem) and (max-width:119rem){.subnav-list[data-nav-level="2"]>li{padding-left:225px}}@media (min-width:62rem){.subnav-list[data-nav-level="3"]{position:absolute;top:0;left:0;width:100%}}@media (min-width:119rem){.subnav-list[data-nav-level="3"]>li{padding-left:calc((100% - 1920px)/ 2 + 225px + 250px)}}@media (min-width:62rem) and (max-width:119rem){.subnav-list[data-nav-level="3"]>li{padding-left:475px}}@media (min-width:62rem){.subnav-list[data-nav-level="4"]{position:absolute;top:0;left:0;width:100%}}@media (min-width:119rem){.subnav-list[data-nav-level="4"]>li{padding-left:calc((100% - 1920px)/ 2 + 225px + 500px)}}@media (min-width:62rem) and (max-width:119rem){.subnav-list[data-nav-level="4"]>li{padding-left:725px}}.subnav-btn,.subnav-link{display:block;width:100%;text-align:left;color:var(--white);line-height:1.3}@media (min-width:62rem){.subnav-btn,.subnav-link{padding:10px 10px 10px 30px;font-size:1.0625rem}}@media (max-width:61.98rem){.subnav-btn,.subnav-link{padding:10px;font-size:.875rem}}.subnav-btn{position:relative}@media (min-width:62rem){.subnav-btn{padding-right:80px;border-right:2px solid transparent}.subnav-btn::after{content:"\e92e";font-family:var(--font-icons);position:absolute;top:5px;right:45px;font-size:1.5rem}}@media (max-width:61.98rem){.subnav-btn{padding-right:40px}.subnav-btn::after{content:"\e90d";font-family:var(--font-icons);position:absolute;top:10px;right:10px}}.close-subnav-btn{color:var(--white);position:absolute;font-weight:400;height:64px;top:0;right:30px;width:auto}@media (max-width:61.98rem){.close-subnav-btn{bottom:0;top:auto;right:auto;width:100%;text-align:center;border-top:1px solid rgba(255,255,255,.5)}}.close-subnav-btn>span:not(.icon){margin-right:10px;font-size:17px;line-height:1}.close-subnav-btn>span.icon{font-size:12px;line-height:1}@media (max-width:991px){.close-subnav-btn{position:fixed;top:auto;right:auto}}.skip-links-wrapper{position:fixed;z-index:9999;width:100%}.tag{display:inline-block;text-transform:uppercase;background:var(--theme-brand);color:var(--primary-button-color);border-radius:2px;font-weight:600;font-size:.75rem}@media (min-width:62rem){.tag{font-size:.75rem;letter-spacing:.25px;padding:5px 10px}}@media (max-width:61.98rem){.tag{font-size:.75rem;letter-spacing:.15px;padding:2px 4px}}.grid-slider .tag{line-height:var(--line-height-text)}@media (min-width:62rem){.grid-slider .tag{font-size:1rem;padding:2px 10px}}@media (max-width:61.98rem){.grid-slider .tag{font-size:.75rem;padding:0 5px}}@media (max-width:61.98rem){.carousel-wrapper{padding:0 0 40px 0}}@media (min-width:62rem){.carousel-wrapper{padding:0 0 50px 0}}.flickity-prev-next-button{width:50px;height:50px;background:#fff;color:var(--theme-brand);box-shadow:var(--box-shadow-small);margin-top:-25px}.flickity-prev-next-button::before{font-family:var(--font-icons);font-weight:700;font-size:1.375rem;line-height:50px}.flickity-prev-next-button.previous{left:15px}.flickity-prev-next-button.previous::before{content:"\e90e"}.flickity-prev-next-button.next{right:15px}.flickity-prev-next-button.next::before{content:"\e90b"}@media (max-width:61.98rem){.flickity-prev-next-button{display:none}}.flickity-prev-next-button .flickity-button-icon{display:none}
+</style>
+<!-- ./critical css -->
+
+<script>
+  /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+  !function (c) { "use strict"; var e = function (e, t, n, r) { var o, i = c.document, a = i.createElement("link"); if (t) o = t; else { var d = (i.body || i.getElementsByTagName("head")[0]).childNodes; o = d[d.length - 1] } var f = i.styleSheets; if (r) for (var l in r) r.hasOwnProperty(l) && a.setAttribute(l, r[l]); a.rel = "stylesheet", a.href = e, a.media = "only x", function e(t) { if (i.body) return t(); setTimeout(function () { e(t) }) }(function () { o.parentNode.insertBefore(a, t ? o : o.nextSibling) }); var s = function (e) { for (var t = a.href, n = f.length; n--;)if (f[n].href === t) return e(); setTimeout(function () { s(e) }) }; function u() { a.addEventListener && a.removeEventListener("load", u), a.media = n || "all" } return a.addEventListener && a.addEventListener("load", u), (a.onloadcssdefined = s)(u), a }; "undefined" != typeof exports ? exports.loadCSS = e : c.loadCSS = e }("undefined" != typeof global ? global : this);
+  /*! onloadCSS. (onload callback for loadCSS) [c]2017 Filament Group, Inc. MIT License */
+  function onloadCSS(n, a) { var t; function d() { !t && a && (t = !0, a.call(n)) } n.addEventListener && n.addEventListener("load", d), n.attachEvent && n.attachEvent("onload", d), "isApplicationInstalled" in navigator && "onloadcssdefined" in n && n.onloadcssdefined(d) }
+
+  // set a cookie when the stylesheet is loaded async.
+  // on the next visit check for the cookie
+  var application_css = loadCSS('/frontend.kw/dist/assets/css/application.bundle.css');
+
+  onloadCSS(application_css, function () {
+    // stylesheet has loaded - now set cookie
+    var expires = new Date(new Date().getTime() + 7 * 24 * 60 * 60 * 1000) // expire after one week
+    document.cookie = 'ehfCSS=true; expires=' + expires + "; path=/";
+
+    // destroy and re-init carousels, this is done because of the cell sizing issue caused by critical css
+    if (typeof carousels !== 'undefined') {
+      carousels.forEach(carousel => {
+        let carouselInstance = Flickity.data(carousel);
+        carouselInstance.destroy();
+
+        initCarousel(carousel);
+      });
+    }
+  });
+</script><link rel="stylesheet" href="/frontend.kw/dist/assets/css/application.bundle.css" media="all">
+
+
+<link rel="stylesheet" href="//embed.typeform.com/next/css/popup.css">
+
+
+
+
+<!-- canonical, href lang -->
+    <link rel="canonical" href="https://ehfcl.eurohandball.com/men/2023-24/matches/">
+    <link rel="alternate" hreflang="en" href="https://ehfcl.eurohandball.com/men/2023-24/matches/">
+
+
+
+
+<!-- Iubenda cookie notification -->
+<!-- https://www.iubenda.com/en/help/1205-how-to-configure-your-cookie-solution-advanced-guide -->
+<script type="text/javascript">
+  var _iub = _iub || [];
+  _iub.csConfiguration = {
+    "askConsentIfCMPNotFound": false,
+    "consentOnContinuedBrowsing": false,
+    "enableRemoteConsent": true,
+    "enableTcf": true,
+    "googleAdditionalConsentMode": true,
+    "invalidateConsentWithoutLog": true,
+    "lang": "en",
+    "promptToAcceptOnBlockedElements": true,
+    "floatingPreferencesButtonDisplay": false,
+    "perPurposeConsent": true,
+    "reloadOnConsent": true,
+    "siteId": 1733145,
+    "cookiePolicyId": 30710801,
+    "banner": {
+      "acceptButtonCaptionColor": "white",
+      "acceptButtonColor": "#0073CE",
+      "acceptButtonDisplay": true,
+      "backgroundColor": "#001f4d",
+      "brandBackgroundColor": "#001F4D",
+      "closeButtonRejects": true,
+      "customizeButtonCaptionColor": "white",
+      "customizeButtonColor": "#212121",
+      "customizeButtonDisplay": true,
+      "explicitWithdrawal": true,
+      "logo": "https://www.eurohandball.com/media/aq1dt0yi/ehf-primary.svg?mode=pad&height=120&rnd=132369686379970000",
+      "position": "float-bottom-right",
+      "rejectButtonCaptionColor": "white",
+      "rejectButtonColor": "#0073CE",
+      "rejectButtonDisplay": true,
+      "textColor": "white",
+      "customizeButtonCaption": "Learn more"
+    },
+    "i18n": {
+      "en": {
+        "blocked_overlay": {
+          "paragraph": 'You said no to using cookies or similar tools that help improve your experience. To see this content, you would need to update your <a href="javascript:void(0);" class="iubenda-cs-preferences-link" style="color: #fff;" data-iub-enabled="1">Privacy Preferences</a>.',
+          "title": "This content is blocked"
+        }
+      }
+    },
+    "callback": {
+      onPreferenceExpressedOrNotNeeded: function (preference) {
+        dataLayer.push({
+          iubenda_ccpa_opted_out: _iub.cs.api.isCcpaOptedOut()
+        });
+        if (!preference) {
+          dataLayer.push({
+            event: "iubenda_preference_not_needed"
+          });
+        } else {
+          if (preference.consent === true) {
+            dataLayer.push({
+              event: "iubenda_consent_given"
+            });
+          } else if (preference.consent === false) {
+            dataLayer.push({
+              event: "iubenda_consent_rejected"
+            });
+          } else if (preference.purposes) {
+            for (var purposeId in preference.purposes) {
+              if (preference.purposes[purposeId]) {
+                dataLayer.push({
+                  event: "iubenda_consent_given_purpose_" + purposeId
+                });
+              }
+            }
+          }
+        }
+      }
+    }
+  };
+</script>
+
+<!-- iubenda scripts -->
+<script type="text/javascript" src="//cdn.iubenda.com/cs/tcf/stub-v2.js"></script>
+<script type="text/javascript" src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js"></script>
+<script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async=""></script>
+
+  <!-- analytic segment script -->
+  <script async="" data-iub-type="module" type="text/javascript" data-iub-purposes="1" class="_iub_cs_activate">
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._loadOptions=e};analytics._writeKey="rkGQBllnui8Z9Vv5iu6Sdetn5IwSDZlC";analytics.SNIPPET_VERSION="4.15.2";
+      analytics.load("rkGQBllnui8Z9Vv5iu6Sdetn5IwSDZlC");
+    }}();
+  </script>
+  <!-- identify user -->
+
+
+
+
+  <!-- Google Tag Manager -->
+  <script async="" data-iub-type="module" type="text/javascript" data-iub-purposes="4" class="_iub_cs_activate">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag("consent", "default", {
+    ad_storage: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 2000 // milliseconds
+    });
+
+    gtag('set', 'url_passthrough', true);
+
+    gtag("set", "ads_data_redaction", true);
+
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TDFG88N');
+
+    console.log("TM loaded");
+  </script>
+  <!-- End Google Tag Manager -->
+
+
+  
+<script src="/assets/js/plugin.bundle.js?v=1dwPFcx-Ma0P4w5u1azli9dRWFeGD1UoSqc6Twzzo3Q1"></script><script src="/assets/js/common.bundle.js?v=4b4ZsR9VAN7gWpQYdBHLJnBkSHSEi2sX_WxRRtchQaI1"></script><script src="/assets/js/ados.js"></script><script src="/assets/js/axios.min.js"></script><script src="/assets/js/vue.min.js"></script><script src="/assets/js/vue-lazyload.js"></script><script src="/assets/js/vue-observe-visibility.min.js"></script><script src="/Scripts/lodash.min.js"></script><script src="/assets/js/livescores.bundle.js?v=EIAu_ewjF2xS7POCKCFQd_XOjRVT38Pt7mhm7Gs0uzc1"></script><script src="/assets/js/matches.bundle.js?v=jwKWngn_0XOzX6UUGoF-QT3G2IhOT6xA1aEF8Go8nUQ1"></script><script src="/assets/js/homeofhandball.bundle.js?v=HtXB2-wM_H4X15fhdAzHRFzVDPf2pIAQXYk9tzIM7V01"></script><script src="https://cdn.iubenda.com/cs/tcf/versions/tcf-v2-0.22.3.js" charset="UTF-8"></script></head>
+
+<body class="theme--ochre" data-eloqua-site-id="2069535878">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TDFG88N"
+              height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+  <!-- skip links -->
+  <div class="skip-links-wrapper">
+    <a href="#main-content" class="skip-link sr-only sr-only-focusable">Skip to content</a>
+    <a href="#navigation" class="skip-link sr-only sr-only-focusable">Skip to navigation</a>
+  </div>
+  <!-- ./skip links -->
+
+
+
+<div data-js-requires="livescores" id="vue-container-livescorestournaments" data-currentcontentid="87404" data-culture="en-US" data-pastdays="0" data-upcomingmatches="15" data-url="/umbraco/Api/LiveScoreApi/GetLiveScoreMatchesAsync" data-competitionurl="/umbraco/Api/LiveScoreApi/GetTournamentsAsync?contentId=87404" class="livescore-tournaments js-tabs"><div class="livescore-tournaments-inner js-livescore-header"><div role="tablist" class="lt-tab-wrapper"><button id="tab-livescore" data-category="livescores" data-tab="#tab-content-livescore" aria-controls="tab-content-livescore" role="tab" aria-selected="true" type="button" class="lt-tab js-tab js-lt-tab is--active">
+        Live Scores
+      </button> <button id="tab-tournaments" data-category="tournaments" data-tab="#tab-content-tournaments" aria-controls="tab-content-tournaments" role="tab" aria-selected="false" type="button" class="lt-tab js-tab js-lt-tab">
+        Competitions
+      </button></div> <div id="tab-content-livescore" aria-labelledby="tab-livescore" role="tabpanel" class="lt-tab-content js-tab-content is--active"><div class="js-lt-scrollbooster scrollbooster-carousel carousel-wrapper boundry--left"><button type="button" aria-label="[Modules.LiveScores.Previous_en-US]" class="flickity-button flickity-prev-next-button js-lt-scrollbooster--left previous"><svg viewBox="0 0 100 100" class="flickity-button-icon"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button> <button type="button" aria-label="[Modules.LiveScores.Next_en-US]" class="flickity-button flickity-prev-next-button js-lt-scrollbooster--right next"><svg viewBox="0 0 100 100" class="flickity-button-icon"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" transform="translate(100, 100) rotate(180) " class="arrow"></path></svg></button> <div class="lt-viewport js-viewport"><div class="lt-content js-content" style="transform: translate(0px);"><div class="lt-item"><a href="/men/2023-24/calendar/?startDate=2023-11-04" class="lt-day"><span class="lt-month">Nov</span> <span class="lt-date">04</span></a> <a item="[object Object]" href="https://www.eurohandball.com/en/matches/202511030103004/finland-great-britain/" target="_blank" title="World Championship" class="livescore theme--blue"><div class="l-header"><span class="l-league">WCh 2025 - M</span> <!----> <span class="l-time">15:00</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/FIN.svg" alt="Finland" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Finland</span> <span class="l-score">0</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/GBR.svg" alt="Great Britain" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Great Britain</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="https://www.eurohandball.com/en/matches/202511030103006/estonia-latvia/" target="_blank" title="World Championship" class="livescore theme--blue"><div class="l-header"><span class="l-league">WCh 2025 - M</span> <!----> <span class="l-time">18:00</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/EST.svg" alt="Estonia" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Estonia</span> <span class="l-score">0</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/LAT.svg" alt="Latvia" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Latvia</span> <span class="l-score">0</span></div></a></div><div class="lt-item"><a href="/men/2023-24/calendar/?startDate=2023-11-05" class="lt-day"><span class="lt-month">Nov</span> <span class="lt-date">05</span></a> <a item="[object Object]" href="https://www.eurohandball.com/en/matches/202511030103008/kosovo-slovakia/" target="_blank" title="World Championship" class="livescore theme--blue"><div class="l-header"><span class="l-league">WCh 2025 - M</span> <!----> <span class="l-time">17:00</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/KOS.svg" alt="Kosovo" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Kosovo</span> <span class="l-score">0</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/SVK.svg" alt="Slovakia" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Slovakia</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="https://www.eurohandball.com/en/matches/202511030103010/italy-turkiye/" target="_blank" title="World Championship" class="livescore theme--blue"><div class="l-header"><span class="l-league">WCh 2025 - M</span> <!----> <span class="l-time">18:00</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/ITA.svg" alt="Italy" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Italy</span> <span class="l-score">0</span></div> <div class="l-team"><img src="/frontend.kw/dist/assets/img/flags/TUR.svg" alt="Türkiye" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Türkiye</span> <span class="l-score">0</span></div></a></div><div class="lt-item"><a href="/men/2023-24/calendar/?startDate=2023-11-08" class="lt-day"><span class="lt-month">Nov</span> <span class="lt-date">08</span></a> <a item="[object Object]" href="http://ehfec.eurohandball.com/women/2023-24/matches/details/202412020703027/o-f-n-ionias-atticgo-bm-elche/" target="_blank" title="European Cup / EHF European Cup" class="livescore theme--blue"><div class="l-header"><span class="l-league">EHF EC - W</span> <!----> <span class="l-time">20:30</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbnhFGR3XxSk7dDb8ogQ1pnBKaPzZC5Ddv8skwn_gtfkg" alt="O.F.N. Ionias" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">O.F.N. Ionias</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6ja8sglKzlAyR5-M-mnwuk4OqAr820HetMXSDf2sXyfdxA" alt="ATTICGO Bm Elche" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">ATTICGO Bm Elche</span> <span class="l-score">0</span></div></a></div><div class="lt-item"><a href="/men/2023-24/calendar/?startDate=2023-11-09" class="lt-day"><span class="lt-month">Nov</span> <span class="lt-date">09</span></a> <a item="[object Object]" href="http://ehfec.eurohandball.com/women/2023-24/matches/details/202412020703028/atticgo-bm-elche-o-f-n-ionias/" target="_blank" title="European Cup / EHF European Cup" class="livescore theme--blue"><div class="l-header"><span class="l-league">EHF EC - W</span> <!----> <span class="l-time">20:30</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6ja8sglKzlAyR5-M-mnwuk4OqAr820HetMXSDf2sXyfdxA" alt="ATTICGO Bm Elche" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">ATTICGO Bm Elche</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbnhFGR3XxSk7dDb8ogQ1pnBKaPzZC5Ddv8skwn_gtfkg" alt="O.F.N. Ionias" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">O.F.N. Ionias</span> <span class="l-score">0</span></div></a></div><div class="lt-item"><a href="/men/2023-24/calendar/?startDate=2023-11-11" class="lt-day"><span class="lt-month">Nov</span> <span class="lt-date">11</span></a> <a item="[object Object]" href="http://ehfec.eurohandball.com/women/2023-24/matches/details/202412020703001/sport-lisboa-e-benfica-neistin/" target="_blank" title="European Cup / EHF European Cup" class="livescore theme--blue"><div class="l-header"><span class="l-league">EHF EC - W</span> <!----> <span class="l-time">13:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jag3zs8vPMaLUL9Mp7GQlgcsv-UiABrPH6yHrYzQJybIQ" alt="Sport Lisboa e Benfica" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Sport Lisboa e Benfica</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbNQufOXyIiZQJrDG2xVf99QrIIQ22rLaCnOFC13htGfg" alt="Neistin" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Neistin</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="http://ehfel.eurohandball.com/women/2023-24/matches/details/202412020903005/praktiker-vac-kastamonu-belediyesi-gsk/" target="_blank" title="European Cup / EHF European League" class="livescore theme--red"><div class="l-header"><span class="l-league">EHF EL - W</span> <!----> <span class="l-time">14:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZJS_DtAPdxUvZxachEuNj8X6hqbe0k27-XnkGGKClbvg" alt="Praktiker-Vác" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Praktiker-Vác</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYzXXyc6K3VEBmYRFqJPpB4SCKnw8-AcZ3oMToXMHFB3w" alt="Kastamonu Belediyesi GSK" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Kastamonu Belediyesi GSK</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="http://ehfel.eurohandball.com/women/2023-24/matches/details/202412020903009/storhamar-handball-elite-h-65-hoors-hk/" target="_blank" title="European Cup / EHF European League" class="livescore theme--red"><div class="l-header"><span class="l-league">EHF EL - W</span> <!----> <span class="l-time">16:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYJGZwCXJ8eRNapPvopxKdqRHE7fviCJ6PE3BI201CwNg" alt="Storhamar Handball Elite" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Storhamar Handball Elite</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbglRprpTRmHnF5uTAWiye3Pjp2t667GBgHXHD4TW4bdw" alt="H 65 Höörs HK" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">H 65 Höörs HK</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="/women/2023-24/matches/details/202412020101083/ftc-rail-cargo-hungaria-mks-zaglebie-lubin/" title="European Cup / EHF Champions League" class="livescore theme--ochre"><div class="l-header"><span class="l-league">EHF CL - W</span> <!----> <span class="l-time">16:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jacsR7AKdqwESGSsWpS36B1tFWHVHXvNYQF7tyXHA7e1A" alt="FTC-Rail Cargo Hungaria" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">FTC-Rail Cargo Hungaria</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZUpxMyE6aDdRknk4fsex08LSi8w0acxzawElHoTdT-oA" alt="MKS Zaglebie Lubin" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">MKS Zaglebie Lubin</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="/women/2023-24/matches/details/202412020101029/ik-savehof-odense-handbold/" title="European Cup / EHF Champions League" class="livescore theme--ochre"><div class="l-header"><span class="l-league">EHF CL - W</span> <!----> <span class="l-time">16:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jby7gorLUWdo_NqxJUpzmm1NOOrJBlZUjs-W4Xtc6nAqQ" alt="IK Sävehof" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">IK Sävehof</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZIw7Qcl53N8vBfjncNua4WMdyxtPEkTkp1MRpEgHjM6w" alt="Odense Håndbold" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Odense Håndbold</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="http://ehfec.eurohandball.com/women/2023-24/matches/details/202412020703017/zrk-mlinotest-ajdovscina-hv-herzogenbuchsee/" target="_blank" title="European Cup / EHF European Cup" class="livescore theme--blue"><div class="l-header"><span class="l-league">EHF EC - W</span> <!----> <span class="l-time">18:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZvCgwAolW0yIao2Jzmrwq5-7Hki0rS7vbTlQGrcUkPTQ" alt="ZRK Mlinotest Ajdovscina" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">ZRK Mlinotest Ajdovscina</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaJ9eOkMyyFI6m4H3mOx2vzSiJxQtRTbuphK9OlFyzcjA" alt="HV Herzogenbuchsee" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">HV Herzogenbuchsee</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="http://ehfec.eurohandball.com/women/2023-24/matches/details/202412020703003/hazena-kynzvart-westfriesland-sew/" target="_blank" title="European Cup / EHF European Cup" class="livescore theme--blue"><div class="l-header"><span class="l-league">EHF EC - W</span> <!----> <span class="l-time">18:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYzXXyc6K3VEBmYRFqJPpB42YW3dKREsSW8ExhQVa1c1Q" alt="Hazena Kynzvart" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Hazena Kynzvart</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYkleA2oqLt4bIzLeKokAIkYYl1sfKTHM5vYBljDTHNvQ" alt="Westfriesland SEW" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">Westfriesland SEW</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="http://ehfel.eurohandball.com/women/2023-24/matches/details/202412020903003/lc-bruhl-handball-hc-lokomotiva-zagreb/" target="_blank" title="European Cup / EHF European League" class="livescore theme--red"><div class="l-header"><span class="l-league">EHF EL - W</span> <!----> <span class="l-time">18:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZJHb1-TpxeIZUp0PUuP-dkv1q3UeCsg2dzrLa1vzw0jg" alt="LC Brühl Handball" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">LC Brühl Handball</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbfnf6nGD9QhzQ9IJoa6yKaE7RmgZMisBqjYPH26kvleQ" alt="HC Lokomotiva Zagreb" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">HC Lokomotiva Zagreb</span> <span class="l-score">0</span></div></a><a item="[object Object]" href="/women/2023-24/matches/details/202412020101032/csm-bucuresti-dvsc-schaeffler/" title="European Cup / EHF Champions League" class="livescore theme--ochre"><div class="l-header"><span class="l-league">EHF CL - W</span> <!----> <span class="l-time">18:00</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYkzVHexYzzkpRKX1dRe35SqtKiE_Tn5xH_SNHPDrb8TQ" alt="CSM Bucuresti" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">CSM Bucuresti</span> <span class="l-score">0</span></div> <div class="l-team"><img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jb2q7-etcuwQvD6glDeNADL-jeJTWBpOEN_ZRwObmnjGg" alt="DVSC Schaeffler" class="l-flag" style="font-size: 0.5em;"> <span class="l-name">DVSC Schaeffler</span> <span class="l-score">0</span></div></a></div></div></div></div></div> <div id="tab-content-tournaments" aria-labelledby="tab-tournaments" role="tabpanel" class="lt-tab-content js-tab-content"><div class="js-lt-scrollbooster scrollbooster-carousel carousel-wrapper boundry--left"><button type="button" aria-label="[Modules.LiveScores.Previous_en-US]" class="flickity-button flickity-prev-next-button js-lt-scrollbooster--left previous"><svg viewBox="0 0 100 100" class="flickity-button-icon"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button> <button type="button" aria-label="[Modules.LiveScores.Next_en-US]" class="flickity-button flickity-prev-next-button js-lt-scrollbooster--right next"><svg viewBox="0 0 100 100" class="flickity-button-icon"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" transform="translate(100, 100) rotate(180) " class="arrow"></path></svg></button> <div class="lt-viewport js-viewport"><div class="lt-content js-content" style="transform: translate(0px);"><div style="display: flex;"></div></div></div></div></div></div></div>
+
+
+
+<!-- header -->
+<header id="header" class="header">
+  <div class="header-inner-container">
+        <!-- logo -->
+        <div class="header-logo-wrapper">
+          <a href="/men/2023-24/" class="header-logo-anchor">
+            <img src="/media/5zmfmbar/ehfwcl202223.png?anchor=center&amp;mode=crop&amp;height=120&amp;rnd=133066014883100000" class="header-logo-img" alt="Back to the start page">
+          </a>
+        </div>
+        <!-- ./logo -->
+    <!-- scrollbooster container -->
+    <div class="nav-viewport js-nav-viewport end--shadow">
+      <div class="nav-content js-nav-content" style="transform: translate(0px);">
+
+
+<!-- primary navigation -->
+<nav id="navigation" class="primary-nav" aria-label="Main navigation">
+    <ul class="nav-list js-nav">
+          <li>
+            <a href="/men/2023-24/news/" class="nav-btn">News</a>
+          </li>
+          <li>
+            <a href="/men/2023-24/matches/" class="nav-btn is--active">Matches</a>
+          </li>
+          <li>
+            <a href="/men/2023-24/clubs/" class="nav-btn">Clubs</a>
+          </li>
+          <li>
+            <button data-target-id="87415" class="nav-btn js-nav-btn" aria-haspopup="true" aria-expanded="false">Standings</button>
+          </li>
+          <li>
+            <a href="/men/2023-24/team-stats/" class="nav-btn">Team Stats</a>
+          </li>
+          <li>
+            <a href="/men/2023-24/player-stats/" class="nav-btn">Player Stats</a>
+          </li>
+          <li>
+            <button data-target-id="88816" class="nav-btn js-nav-btn" aria-haspopup="true" aria-expanded="false">TruckScout24 EHF FINAL4 2024</button>
+          </li>
+    </ul>
+</nav>
+
+<!-- ./primary navigation -->
+
+  <!-- secondary navigation -->
+  <nav class="secondary-nav" aria-label="Meta navigation">
+    <ul class="nav-list">
+
+
+          <li>
+            <a href="/men/2023-24/tv-guide/" class="nav-btn icon ehf-modern-tv-curvy" title="TV Guide">
+              <span>TV Guide</span>
+            </a>
+          </li>
+
+
+      
+          <li>
+            <a href="/men/2023-24/calendar/" class="nav-btn icon ehf-calendar" title="Calendar">
+              <span>Calendar</span>
+            </a>
+          </li>
+
+
+    </ul>
+  </nav>
+  <!-- ./secondary navigation -->
+
+
+
+          <!-- header search button -->
+          <button class="header-search-btn icon ehf-search js-header-search-open" aria-haspopup="true" aria-expanded="false" title="Open the search">
+            <span class="sr-only">Open the search</span>
+          </button>
+          <!-- ./header search button -->
+      </div>
+    </div>
+    <!-- ./scrollbooster container -->
+  </div>
+
+    <form class="header-search js-header-search" name="siteSearchForm" action="/men/2023-24/search/" aria-hidden="true">
+      <div class="header-search-inner">
+        <div class="text-input-wrapper">
+          <input type="search" name="q" class="text-input" aria-label="Search field" tabindex="-1" placeholder="Search...">
+        </div>
+        <button class="header-search-close icon ehf-times js-header-search-close" type="button" tabindex="-1">
+          <span class="sr-only">Close the search</span>
+        </button>
+      </div>
+    </form>
+
+
+
+<!-- sub navigation -->
+  <nav class="subnav js-subnav" data-nav-id="87412" aria-label="News" tabindex="-1">
+    <div class="subnav-inner-container">
+        <ul class="subnav-list" data-nav-level="2">
+            <li>
+              <a href="/men/2023-24/news/" class="subnav-link">
+                News
+              </a>
+            </li>
+        </ul>
+    </div>
+    <button class="close-subnav-btn js-close-subnav-btn" type="button">
+      <span>Close the navigation</span>
+      <span class="icon ehf-times"></span>
+    </button>
+  </nav>
+  <nav class="subnav js-subnav" data-nav-id="87404" aria-label="Matches" tabindex="-1">
+    <div class="subnav-inner-container">
+        <ul class="subnav-list" data-nav-level="2">
+            <li>
+              <a href="/men/2023-24/matches/" class="subnav-link is--active">
+                Matches
+              </a>
+            </li>
+        </ul>
+    </div>
+    <button class="close-subnav-btn js-close-subnav-btn" type="button">
+      <span>Close the navigation</span>
+      <span class="icon ehf-times"></span>
+    </button>
+  </nav>
+  <nav class="subnav js-subnav" data-nav-id="87413" aria-label="Clubs" tabindex="-1">
+    <div class="subnav-inner-container">
+        <ul class="subnav-list" data-nav-level="2">
+            <li>
+              <a href="/men/2023-24/clubs/" class="subnav-link">
+                Clubs
+              </a>
+            </li>
+        </ul>
+    </div>
+    <button class="close-subnav-btn js-close-subnav-btn" type="button">
+      <span>Close the navigation</span>
+      <span class="icon ehf-times"></span>
+    </button>
+  </nav>
+  <nav class="subnav js-subnav" data-nav-id="87415" aria-label="Standings" tabindex="-1">
+    <div class="subnav-inner-container">
+
+<ul class="subnav-list" data-nav-level="2">
+        <li>
+          <a class="subnav-link" href="/men/2023-24/standings/#group-phase">Group Phase</a>
+        </li>
+        <li>
+          <a class="subnav-link" href="/men/2023-24/standings/#play-offs">Play-offs</a>
+        </li>
+        <li>
+          <a class="subnav-link" href="/men/2023-24/standings/#quarter-finals">Quarter-finals</a>
+        </li>
+        <li>
+          <a class="subnav-link" href="/men/2023-24/standings/#truckscout24-ehf-final4">TruckScout24 EHF FINAL4</a>
+        </li>
+</ul>
+
+    </div>
+    <button class="close-subnav-btn js-close-subnav-btn" type="button">
+      <span>Close the navigation</span>
+      <span class="icon ehf-times"></span>
+    </button>
+  </nav>
+  <nav class="subnav js-subnav" data-nav-id="87419" aria-label="Team Stats" tabindex="-1">
+    <div class="subnav-inner-container">
+        <ul class="subnav-list" data-nav-level="2">
+            <li>
+              <a href="/men/2023-24/team-stats/" class="subnav-link">
+                Team Stats
+              </a>
+            </li>
+        </ul>
+    </div>
+    <button class="close-subnav-btn js-close-subnav-btn" type="button">
+      <span>Close the navigation</span>
+      <span class="icon ehf-times"></span>
+    </button>
+  </nav>
+  <nav class="subnav js-subnav" data-nav-id="87420" aria-label="Player Stats" tabindex="-1">
+    <div class="subnav-inner-container">
+        <ul class="subnav-list" data-nav-level="2">
+            <li>
+              <a href="/men/2023-24/player-stats/" class="subnav-link">
+                Player Stats
+              </a>
+            </li>
+        </ul>
+    </div>
+    <button class="close-subnav-btn js-close-subnav-btn" type="button">
+      <span>Close the navigation</span>
+      <span class="icon ehf-times"></span>
+    </button>
+  </nav>
+  <nav class="subnav js-subnav" data-nav-id="88816" aria-label="TruckScout24 EHF FINAL4 2024" tabindex="-1">
+    <div class="subnav-inner-container">
+        <ul class="subnav-list" data-nav-level="2">
+                <li>
+                  <button class="subnav-btn js-subnav-btn" aria-controls="subnav-6-1-1" aria-expanded="false">Event Info</button>
+
+                  <ul id="subnav-6-1-1" class="subnav-list" data-nav-level="3">
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/event-info/general-information/" class="subnav-link">General Information</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/event-info/venue/" class="subnav-link">Venue</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <button class="subnav-btn js-subnav-btn" aria-controls="subnav-6-2-3" aria-expanded="false">Ticketing</button>
+
+                  <ul id="subnav-6-2-3" class="subnav-list" data-nav-level="3">
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/ticketing/ticket-sale-2024/" class="subnav-link">Ticket sale 2024</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/ticketing/ticket-refund-2020/" class="subnav-link">Ticket Refund 2020</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/ticketing/hygiene-information-2024/" class="subnav-link">Hygiene Information 2024</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <button class="subnav-btn js-subnav-btn" aria-controls="subnav-6-3-6" aria-expanded="false">VIP &amp; Hospitality</button>
+
+                  <ul id="subnav-6-3-6" class="subnav-list" data-nav-level="3">
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/vip-hospitality/hospitality-options/" class="subnav-link">Hospitality Options</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/vip-hospitality/vip-lounge/" class="subnav-link">VIP Lounge</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/vip-hospitality/ehf-champions-club/" class="subnav-link">EHF Champions Club</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/vip-hospitality/vip-suite/" class="subnav-link">VIP Suite</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <button class="subnav-btn js-subnav-btn" aria-controls="subnav-6-4-10" aria-expanded="false">EHF FINAL4 Business</button>
+
+                  <ul id="subnav-6-4-10" class="subnav-list" data-nav-level="3">
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/ehf-final4-business/ehf-final4-business-weekend/" class="subnav-link">EHF FINAL4 Business Weekend</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/ehf-final4-business/european-handball-talks/" class="subnav-link">European Handball Talks</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/ehf-final4-business/business-lounge/" class="subnav-link">Business Lounge</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/ehf-final4-business/cologne-handball-night/" class="subnav-link">Cologne Handball Night</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <button class="subnav-btn js-subnav-btn" aria-controls="subnav-6-5-14" aria-expanded="false">Facts &amp; Figures</button>
+
+                  <ul id="subnav-6-5-14" class="subnav-list" data-nav-level="3">
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/facts-figures/trophy/" class="subnav-link">Trophy</a>
+                        </li>
+                        <li>
+                          <a href="/men/2023-24/truckscout24-ehf-final4-2024/facts-figures/history/" class="subnav-link">History</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/men/2023-24/truckscout24-ehf-final4-2024/faq/" class="subnav-link">
+                    FAQ
+                  </a>
+                </li>
+        </ul>
+    </div>
+    <button class="close-subnav-btn js-close-subnav-btn" type="button">
+      <span>Close the navigation</span>
+      <span class="icon ehf-times"></span>
+    </button>
+  </nav>
+<!-- ./sub navigation -->
+
+
+</header>
+<!-- ./header -->
+
+<!-- flyout -->
+<div id="userFlyout" class="flyout">
+  <a href="https://my.homeofhandball.com/" target="_blank">My Profile</a>
+  <a href="/men/2023-24/matches/?ufprt=D8F147EF806FBC48C999E961E530C6A28B665EE7EB786366D8636FE2A5A0F6865D754C58DCEEFB5EE7087E3602F94A85AB82D2FBD8BA047AE4A47B6247B30B7E3198F4C1CEC4C7DE3FA4802B7C285767EFC08E766F387603530717ED263B13C1A3E0B29D734ADD0454CA41C124C47AED22DF7B8A955B60D9F222FC9C329D9247">Logout</a>
+</div>
+<!-- ./flyout -->
+
+
+
+
+  <!-- orientation -->
+  <div class="orientation">
+    <div class="container">
+      <div class="orientation-grid">
+          <div class="og-item">
+            <a href="https://www.eurohandball.com/en/">Home of Handball</a>
+          </div>
+          <div class="og-item">
+            <!-- dropdown -->
+            <div class="dropdown dropdown--orientation">
+              <button id="dropdown-1" class="dropdown-toggle js-dropdown" aria-haspopup="true" aria-expanded="false" type="button">EHF Champions League</button>
+              <div class="dropdown-menu dropdown--left" aria-labelledby="dropdown-1">
+                <ul class="dropdown-ul">
+                    <li class="dropdown-li">
+                      <a class="dropdown-a" href="http://ehfeuro.eurohandball.com/">EHF EURO</a>
+                    </li>
+                    <li class="dropdown-li">
+                      <a class="dropdown-a" href="http://ehfel.eurohandball.com/">EHF European League</a>
+                    </li>
+                    <li class="dropdown-li">
+                      <a class="dropdown-a" href="http://ehfec.eurohandball.com/">EHF European Cup</a>
+                    </li>
+                    <li class="dropdown-li">
+                      <a class="dropdown-a" href="http://beach.eurohandball.com/">EHF Beach Handball</a>
+                    </li>
+                    <li class="dropdown-li">
+                      <a class="dropdown-a" href="/this-is-me-nikola-portner/">Inside EHF</a>
+                    </li>
+                    <li class="dropdown-li">
+                      <a class="dropdown-a" href="/creating-a-strong-women-s-national-team-the-swiss-way/">Inside EHF</a>
+                    </li>
+                </ul>
+              </div>
+            </div>
+            <!-- ./dropdown -->
+          </div>
+            <div class="og-item">
+              <!-- dropdown -->
+              <div class="dropdown dropdown--orientation">
+                <button id="dropdown-2" class="dropdown-toggle js-dropdown" aria-haspopup="true" aria-expanded="false" type="button">Machineseeker EHF Champions League</button>
+                <div class="dropdown-menu dropdown--left" aria-labelledby="dropdown-2">
+                  <ul class="dropdown-ul">
+                      <li class="dropdown-li">
+                        <a class="dropdown-a" href="/women/">EHF Champions League Women</a>
+                      </li>
+                  </ul>
+                </div>
+              </div>
+              <!-- ./dropdown -->
+            </div>
+
+          <div class="og-item og-item--mobile-visible">
+            <a href="/men/2023-24/">2023-24 - EHF CL Men</a>
+          </div>
+
+              <div class="og-item">
+                <span class="user">Matches</span>
+              </div>
+      </div>
+    </div>
+  </div>
+  <!-- ./orientation -->
+
+  <main id="main-content" class="main-content" tabindex="-1">
+    
+
+
+<div>
+        <div class="page-intro-wrapper page-intro-tag">
+          <div class="container">
+            
+              <div class="page-intro-container">
+                <h1 class="page-intro-title">Machineseeker EHF Champions League - Matches | EHF</h1>
+              </div>
+          </div>
+        </div>
+</div>
+
+
+<!-- component -->
+<div class="container-full-width container--padding">
+  <div class="container">
+    <!-- results -->
+    <div id="vue-container-matches" data-js-requires="matches" data-init-matches-url="/umbraco/Api/CompetitionMatchesApi/GetInitMatchesAsync" data-filter-matches-url="/umbraco/Api/CompetitionMatchesApi/GetMatchesAsync" data-filtermatchlivestaturl="/umbraco/Api/CompetitionMatchesApi/GetLiveMatchStatistics" data-competition-id="7PArOMBtVwHd7aVHUgXscw" data-currentcontentid="87404"><div class="results-table"><div class="table-header table-header--results"><span data-header="matches">Matches</span> <span data-header="date">DATE • TIME</span> <span data-header="results">RESULTS</span> <span data-header="round">ROUND</span> <span data-header="group">GROUP | Phase</span></div> <button class="load-more-matches">Load Future Matches</button> <div class="table-body"><a href="/men/2023-24/matches/details/202411020101084/sc-magdeburg-gog/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Nov 16, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CET), Magdeburg (GER)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">SC Magdeburg</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jb-7QVMtRjna6Q-8J1uBxH9nfRydSX8Cz6dP2Kpgjnrzg" alt="SC Magdeburg" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jb-7QVMtRjna6Q-8J1uBxH9nfRydSX8Cz6dP2Kpgjnrzg" lazy="loaded"> <span class="score">0</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">GOG</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkvYXUs7SM-qMTg9KvvogQpQ" alt="GOG" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkvYXUs7SM-qMTg9KvvogQpQ" lazy="loaded"> <span class="score">0</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101028/hc-zagreb-industria-kielce/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Nov 16, 2023
+                </span> <span class="time-and-location">
+                  18:45 (CET), Zagreb (CRO)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">HC Zagreb</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkmVhM_TC84tXp-9sYOWdZuw" alt="HC Zagreb" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkmVhM_TC84tXp-9sYOWdZuw" lazy="loaded"> <span class="score">0</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">Industria Kielce</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaIZRAZvHmcRHQnzn_OfULW90SPv_oVHGeeJ8LOggQ_mw" alt="Industria Kielce" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaIZRAZvHmcRHQnzn_OfULW90SPv_oVHGeeJ8LOggQ_mw" lazy="loaded"> <span class="score">0</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101027/otp-bank-pick-szeged-hc-eurofarm-pelister/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Nov 16, 2023
+                </span> <span class="time-and-location">
+                  18:45 (CET), Szeged (HUN)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">OTP Bank - PICK Szeged</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaXLGr5I_st6tv42muuAjDZIzMlxsGU-38qEON6AA69Kw" alt="OTP Bank - PICK Szeged" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaXLGr5I_st6tv42muuAjDZIzMlxsGU-38qEON6AA69Kw" lazy="loaded"> <span class="score">0</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">HC Eurofarm Pelister</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYl3SPMfjgsOyQx_Vi1oMzA9CcHKceCPhloLc_9lhCIPQ" alt="HC Eurofarm Pelister" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYl3SPMfjgsOyQx_Vi1oMzA9CcHKceCPhloLc_9lhCIPQ" lazy="loaded"> <span class="score">0</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101029/thw-kiel-aalborg-handbold/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Nov 16, 2023
+                </span> <span class="time-and-location">
+                  18:45 (CET), Kiel (GER)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">THW Kiel</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jY7Zk32kCxAu48guP8PHbTYxyBX-XFYQiOq5hfcLH_z9w" alt="THW Kiel" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jY7Zk32kCxAu48guP8PHbTYxyBX-XFYQiOq5hfcLH_z9w" lazy="loaded"> <span class="score">0</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">Aalborg Håndbold</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYbH6SdRDY1KHkCya2wqA7FcTN509wYHKzK1zhDjD2EBA" alt="Aalborg Håndbold" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYbH6SdRDY1KHkCya2wqA7FcTN509wYHKzK1zhDjD2EBA" lazy="loaded"> <span class="score">0</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101083/montpellier-hb-fc-porto/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Wed Nov 15, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CET), Montpellier (FRA)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">Montpellier HB</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZIw7Qcl53N8vBfjncNua4W20wj9NV11gDWiE1hMZXEsw" alt="Montpellier HB" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZIw7Qcl53N8vBfjncNua4W20wj9NV11gDWiE1hMZXEsw" lazy="loaded"> <span class="score">0</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">FC Porto</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbf3q6G0tdFJJ32WYJxVEJWYYvt8rJloPQlba4Awaxvzw" alt="FC Porto" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbf3q6G0tdFJJ32WYJxVEJWYYvt8rJloPQlba4Awaxvzw" lazy="loaded"> <span class="score">0</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101026/kolstad-handball-paris-saint-germain-handball/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Wed Nov 15, 2023
+                </span> <span class="time-and-location">
+                  18:45 (CET), Trondheim (NOR)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">Kolstad Handball</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYa39n8RsVmlAKKz2idTkEnu_ib7-NwzDpa5aVCzU7t8g" alt="Kolstad Handball" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYa39n8RsVmlAKKz2idTkEnu_ib7-NwzDpa5aVCzU7t8g" lazy="loaded"> <span class="score">0</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">Paris Saint-Germain Handball</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZHWpL7ovlII3b7JJNc5ZjJya2i8kGtZtrg1crqq6n9Ew" alt="Paris Saint-Germain Handball" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZHWpL7ovlII3b7JJNc5ZjJya2i8kGtZtrg1crqq6n9Ew" lazy="loaded"> <span class="score">0</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101082/rk-celje-pivovarna-lasko-telekom-veszprem-hc/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Wed Nov 15, 2023
+                </span> <span class="time-and-location">
+                  18:45 (CET), Celje (SLO)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">RK Celje Pivovarna Laško</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYwUoFD4o_ylM-_ALJRw-MaKmvzsVUq95T2YuG06O7Stw" alt="RK Celje Pivovarna Laško" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYwUoFD4o_ylM-_ALJRw-MaKmvzsVUq95T2YuG06O7Stw" lazy="loaded"> <span class="score">0</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">Telekom Veszprém HC</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6ja4f7kiALiRLYNsJL3XSsC5YR7fraybYKcqNSNwIDuw-g" alt="Telekom Veszprém HC" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6ja4f7kiALiRLYNsJL3XSsC5YR7fraybYKcqNSNwIDuw-g" lazy="loaded"> <span class="score">0</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101078/barca-telekom-veszprem-hc/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Oct 26, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CEST), Barcelona (ESP)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">Barça</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtk8f5U8cSog3c8Or01X29w7A" alt="Barça" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtk8f5U8cSog3c8Or01X29w7A" lazy="loaded"> <span class="score">36</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">Telekom Veszprém HC</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6ja4f7kiALiRLYNsJL3XSsC5YR7fraybYKcqNSNwIDuw-g" alt="Telekom Veszprém HC" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6ja4f7kiALiRLYNsJL3XSsC5YR7fraybYKcqNSNwIDuw-g" lazy="loaded"> <span class="score">41</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101080/fc-porto-gog/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Oct 26, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CEST), Porto (POR)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">FC Porto</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbf3q6G0tdFJJ32WYJxVEJWYYvt8rJloPQlba4Awaxvzw" alt="FC Porto" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbf3q6G0tdFJJ32WYJxVEJWYYvt8rJloPQlba4Awaxvzw" lazy="loaded"> <span class="score">32</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">GOG</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkvYXUs7SM-qMTg9KvvogQpQ" alt="GOG" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkvYXUs7SM-qMTg9KvvogQpQ" lazy="loaded"> <span class="score">31</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101077/orlen-wisla-plock-rk-celje-pivovarna-lasko/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Oct 26, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CEST), Plock (POL)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">Orlen Wisla Plock</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jadI-8Y9oF8ovx25brrDCCpopvmLZ0yG-Uj5J2F_w5gQA" alt="Orlen Wisla Plock" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jadI-8Y9oF8ovx25brrDCCpopvmLZ0yG-Uj5J2F_w5gQA" lazy="loaded"> <span class="score">30</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">RK Celje Pivovarna Laško</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYwUoFD4o_ylM-_ALJRw-MaKmvzsVUq95T2YuG06O7Stw" alt="RK Celje Pivovarna Laško" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYwUoFD4o_ylM-_ALJRw-MaKmvzsVUq95T2YuG06O7Stw" lazy="loaded"> <span class="score">25</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101034/paris-saint-germain-handball-thw-kiel/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Oct 26, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CEST), Paris (FRA)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">Paris Saint-Germain Handball</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZHWpL7ovlII3b7JJNc5ZjJya2i8kGtZtrg1crqq6n9Ew" alt="Paris Saint-Germain Handball" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZHWpL7ovlII3b7JJNc5ZjJya2i8kGtZtrg1crqq6n9Ew" lazy="loaded"> <span class="score">28</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">THW Kiel</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jY7Zk32kCxAu48guP8PHbTYxyBX-XFYQiOq5hfcLH_z9w" alt="THW Kiel" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jY7Zk32kCxAu48guP8PHbTYxyBX-XFYQiOq5hfcLH_z9w" lazy="loaded"> <span class="score">34</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101023/otp-bank-pick-szeged-hc-zagreb/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Thu Oct 26, 2023
+                </span> <span class="time-and-location">
+                  18:45 (CEST), Szeged (HUN)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">OTP Bank - PICK Szeged</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaXLGr5I_st6tv42muuAjDZIzMlxsGU-38qEON6AA69Kw" alt="OTP Bank - PICK Szeged" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaXLGr5I_st6tv42muuAjDZIzMlxsGU-38qEON6AA69Kw" lazy="loaded"> <span class="score">27</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">HC Zagreb</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkmVhM_TC84tXp-9sYOWdZuw" alt="HC Zagreb" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jbw4cmNNgicmDV_4hF8QYtkmVhM_TC84tXp-9sYOWdZuw" lazy="loaded"> <span class="score">26</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101024/hc-eurofarm-pelister-industria-kielce/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Wed Oct 25, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CEST), Bitola (MKD)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">HC Eurofarm Pelister</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYl3SPMfjgsOyQx_Vi1oMzA9CcHKceCPhloLc_9lhCIPQ" alt="HC Eurofarm Pelister" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jYl3SPMfjgsOyQx_Vi1oMzA9CcHKceCPhloLc_9lhCIPQ" lazy="loaded"> <span class="score">21</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">Industria Kielce</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaIZRAZvHmcRHQnzn_OfULW90SPv_oVHGeeJ8LOggQ_mw" alt="Industria Kielce" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jaIZRAZvHmcRHQnzn_OfULW90SPv_oVHGeeJ8LOggQ_mw" lazy="loaded"> <span class="score">24</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a><a href="/men/2023-24/matches/details/202411020101079/montpellier-hb-sc-magdeburg/" class="table-row table-row--results"><div class="time-and-location-block"><!----> <div class="game-details"><span class="date">
+                  Wed Oct 25, 2023
+                </span> <span class="time-and-location">
+                  20:45 (CEST), Montpellier (FRA)
+                </span></div></div> <div class="team-block team-block--first"><span class="name">Montpellier HB</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZIw7Qcl53N8vBfjncNua4W20wj9NV11gDWiE1hMZXEsw" alt="Montpellier HB" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jZIw7Qcl53N8vBfjncNua4W20wj9NV11gDWiE1hMZXEsw" lazy="loaded"> <span class="score">25</span></div> <span class="vs-block">vs</span> <div class="team-block team-block--second"><span class="name">SC Magdeburg</span> <img src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jb-7QVMtRjna6Q-8J1uBxH9nfRydSX8Cz6dP2Kpgjnrzg" alt="SC Magdeburg" class="flag" data-src="https://res.ehf.eu/doxtore/TLCEQLGQDD/e1GDx4hAd4m3OP2MUjZsUblI3hAS2CVXmCLcWXth6jb-7QVMtRjna6Q-8J1uBxH9nfRydSX8Cz6dP2Kpgjnrzg" lazy="loaded"> <span class="score">28</span></div> <span title="Group Phase" class="round-block">GP</span> <span class="group-block">Group Phase</span></a></div> <button class="load-more-matches">Load Previous Matches</button></div></div>
+    <!-- ./collapse target -->
+    <!-- ./results -->
+  </div>
+</div>
+<!-- ./component -->
+
+
+
+<div class="container-full-width container--padding">
+  <div class="content-container container-sm">
+    <div class="content-block">
+      <div class="editor-output editor-output--responsive-img">
+        <div style="all: unset;" data-tf-sidetab="swperdoj" data-tf-opacity="100" data-tf-hide-headers="" data-tf-iframe-props="title=EHF Champions League - Weekly" data-tf-open="exit" data-tf-open-value="50" data-tf-transitive-search-params="" data-tf-button-color="#001432" data-tf-button-text="EHFCL Weekly" data-tf-medium="snippet" data-tf-hidden="subscriber_ehfcl=true"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <div class="ad-block ad-block--desktop container--padding">
+    <div class="js-ad-block" id="azk601980 " data-adzerk-campaign="azk601980 " data-adzerk-campaignid="111720012" data-adzerk-adtype="123"></div>
+  </div>
+
+  <div class="ad-block ad-block--tablet container--padding">
+    <div class="js-ad-block" id="azk813821" data-adzerk-campaign="azk813821" data-adzerk-campaignid="111720012" data-adzerk-adtype="4"></div>
+  </div>
+
+  <div class="ad-block ad-block--mobile container--padding">
+    <div class="js-ad-block" id="azk479852" data-adzerk-campaign="azk479852" data-adzerk-campaignid="111720012" data-adzerk-adtype="5"></div>
+  </div>
+
+
+
+  </main>
+
+
+
+  <div id="hoh-container" data-js-requires="homeofhandball" class="js-hoh-container">
+    <div id="vue-container-hoh" data-url="/umbraco/Api/HomeOfHandballApi/GetHome" data-competition-url="/umbraco/Api/HomeOfHandballApi/GetCompetitionsAsync" data-teams-url="/umbraco/Api/HomeOfHandballApi/GetTeamsAsync?contentId=87404"><button data-target="overlay" type="button" aria-label="Home of Handball" class="overlay-open-btn js-open-modal"><svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="05C-HOH" transform="translate(-549.000000, -787.000000)"><g id="Group-15" transform="translate(386.000000, 231.000000)"><g id="Group-7"><g transform="translate(0.000000, -167.000000)" id="Group-17"><g transform="translate(163.000000, 723.000000)"><rect id="Mask" fill="#1E78FF" x="1.46371804e-12" y="-3.55271368e-13" width="49.790795" height="49.790795" rx="24.8953975"></rect> <circle id="Oval" fill="#1E78FF" cx="25" cy="25" r="25"></circle> <g id="Group-13" transform="translate(13.000000, 16.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"><line x1="0.204918033" y1="0.5" x2="24.795082" y2="0.5" id="Line"></line> <line x1="0.204918033" y1="9.5" x2="24.795082" y2="9.5" id="Line2"></line> <line x1="0.204918033" y1="18.5" x2="24.795082" y2="18.5" id="Line3"></line></g></g></g></g></g></g></g></svg></button> <div id="overlay" role="dialog" aria-hidden="true" class="modal modal--dark modal--bottom js-modal"><div role="document" class="modal-container"><div class="modal-inner"><a href="https://www.eurohandball.com/en/" class="overlay-logo"><img src="/frontend.kw/dist/assets/img/logos/ehf.svg" alt="Home of Handball"></a> <div class="modal-header modal-header--overlay"><div><a href="/men/2023-24/calendar/" class="overlay-header-link icon ehf-calendar"><span class="sr-only">Calendar</span></a></div> <div><span class="modal-headline">Home of Handball</span></div> <div><button aria-haspopup="true" aria-expanded="false" class="overlay-header-btn icon ehf-search js-overlay-search-open"><span class="sr-only">Open overlay search</span></button></div> <form action="/men/2023-24/search/" aria-hidden="true" class="overlay-search-wrapper js-overlay-search"><div class="text-input-wrapper"><input type="text" name="q" placeholder="Search" aria-label="Search" tabindex="-1" class="text-input js-overlay-search-input"></div> <button type="button" tabindex="-1" class="overlay-search-close-btn icon ehf-times js-overlay-search-close"><span class="sr-only">Close</span></button></form></div> <div class="modal-body modal-body--no-padding"><div class="overlay-body-container"><div><div class="current-tournaments"><div class="ct-headline-wrapper"><span class="ct-headline h2">Quick Links</span></div> <div class="js-ct-viewport" style="position: relative; width: 100%; overflow: hidden;"><div class="ct-inner js-ct-content" style="transform: translate(0px);"><div class="ct-row"></div></div></div></div></div> <!----> <!----> <!----> <!----></div></div> <div class="modal-footer modal-footer--overlay"><div class="container-wide"><div class="overlay-footer-link-wrapper"><a data-category="home" href="javascript:void(0);" class="overlay-footer-link"><span class="icon ehf-house"></span>
+                    Home
+                  </a> <a data-category="competitions" href="#" class="overlay-footer-link"><span class="icon ehf-award-trophy-star"></span>
+                    Competitions
+                  </a> <a href="https://www.ehftv.com/us/" target="_blank" class="overlay-footer-link"><span class="icon ehf-modern-tv-curvy"></span>
+                      TV
+                    </a> <a data-category="teams" href="#" class="overlay-footer-link"><span class="icon ehf-ball"></span>
+                    Teams
+                  </a> <a data-category="tickets" href="#" class="overlay-footer-link"><span class="icon ehf-ticket"></span>
+                      Tickets
+                    </a> <a data-category="more" href="#" class="overlay-footer-link"><span class="icon ehf-horizontal-dots"></span>
+                      More
+                    </a> <div class="overlay-close-wrapper"><svg width="210" height="90" version="1.1" viewBox="0 0 55.562 23.812" xmlns="http://www.w3.org/2000/svg"><defs><filter id="a" color-interpolation-filters="sRGB"><feFlood flood-color="rgb(0,0,0)" flood-opacity=".43922" result="flood"></feFlood> <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"></feComposite> <feGaussianBlur in="composite1" result="blur" stdDeviation="1"></feGaussianBlur> <feOffset dx="0" dy="4.16334e-016" result="offset"></feOffset> <feComposite in="offset" in2="SourceGraphic" operator="out" result="composite2"></feComposite></filter> <clipPath id="b"><rect x="-1e-7" y="273.32" width="55.563" height="15.875" fill="#f00" fill-opacity=".42714" stroke-width="0"></rect></clipPath></defs> <g transform="matrix(.99999 0 0 1 13.805 -240.98)" fill="#fff"><path d="m-13.806 256.58s4.5237-0.2746 6.6146-1.0583c7.7909-2.9203 12.846-13.229 21.167-13.229 8.321 0 13.376 10.309 21.167 13.229 2.0908 0.78372 6.6146 1.0583 6.6146 1.0583v0.26458h-55.562z" fill="#fff" stroke-width="0"></path></g> <g transform="matrix(.99999 0 0 1 -.0002499 -273.32)" clip-path="url(#b)" fill="#f00" filter="url(#a)"><path d="m-2.4646e-8 289.06s4.5237-0.2746 6.6146-1.0583c7.7909-2.9203 12.846-13.229 21.167-13.229s13.376 10.309 21.167 13.229c2.0908 0.78372 6.6146 1.0583 6.6146 1.0583v0.26458h-55.562z" fill="#f00" stroke-width="0"></path></g></svg> <button class="overlay-close-btn icon ehf-times js-close-modal"><span class="sr-only">Close</span></button></div></div></div></div></div></div></div></div>
+  </div>
+
+<template id="hohCompetitionAccordion">
+  <div class="w-accordion js-accordion">
+    <div class="acc-item acc-item--secondary">
+      <div class="acc-header">
+        <h2 class="acc-title">
+          <button v-bind:id="('btn-' + id)" :class="['acc-trigger acc-trigger--secondary', active ? 'is--active' : '']" v-bind:data-collapse="('#' + id)" v-bind:aria-controls="id" type="button" v-bind:aria-expanded="(active ? 'true' : 'false')">
+            {{caption}}
+          </button>
+        </h2>
+      </div>
+      <div v-bind:id="id" :class="['acc-panel acc-panel--default js-panel', active ? 'is--active' : '']" v-bind:aria-labelledby="('btn-' + id)">
+        <ul class="arrow-list">
+          <li v-for="(competition, index) in competitions" v-bind:key="index">
+            <a v-bind:href="competition.websiteUrl" :target="competition.linkTarget">{{competition.name}}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</template>
+
+
+
+
+
+  <!-- footer -->
+  <footer id="footer" class="footer" tabindex="-1">
+    <div class="container">
+
+
+
+  <!-- breadcrumbs -->
+  <ul class="breadcrumbs">
+      <li>
+        <a href="/" class="breadcrumb-link">
+          Home
+        </a>
+      </li>
+      <li>
+        <a href="/men/2023-24/" class="breadcrumb-link">
+          2023-24 - EHF CL Men
+        </a>
+      </li>
+
+        <li><span class="breadcrumb-link">Matches</span></li>
+  </ul>
+  <!-- ./breadcrumbs -->
+
+
+      <div class="footer-middle-section">
+          <!-- footer headline -->
+          <span class="footer-headline">EHF - Home of Handball</span>
+          <!-- ./footer headline -->
+        <!-- social media links -->
+        <div class="social-media-container">
+                      <a href="https://www.facebook.com/ehf.champions.league" class="social-media-link icon ehf-facebook" target="_blank">
+              <span class="sr-only">Facebook</span>
+            </a>
+                      <a href="https://www.instagram.com/ehfcl/" class="social-media-link icon ehf-instagram" target="_blank">
+              <span class="sr-only">Instagram</span>
+            </a>
+                      <a href="https://www.youtube.com/c/thehomeofhandball" class="social-media-link icon ehf-youtube">
+              <span class="sr-only">Youtube</span>
+            </a>
+                      <a href="https://twitter.com/ehfcl" class="social-media-link icon ehf-Twitter">
+              <span class="sr-only">Twitter</span>
+            </a>
+                      <a href="https://www.linkedin.com/company/european-handball-federation/" class="social-media-link icon ehf-linkedin">
+              <span class="sr-only">Linkedin</span>
+            </a>
+                  </div>
+        <!-- ./social media links -->
+      </div>
+
+      <!-- footer links -->
+      <div class="footer-links-container">
+              <div class="footer-links-group">
+                <span class="footer-links-toggle">Who We Are</span>
+                <button class="footer-links-toggle js-footer-links-toggle" aria-controls="footerLinksOther" aria-expanded="false">
+                  Who We Are
+                </button>
+                <ul id="footerLinks_0" class="footer-links-list js-footer-links-list">
+                    <li>
+                      <a href="https://www.eurohandball.com/en/" class="footer-link">Home</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/who-we-are/the-ehf/" class="footer-link">The EHF</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/who-we-are/ehf-marketing-gmbh/" class="footer-link">EHF Marketing GmbH</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/who-we-are/ehf-commissions/" class="footer-link">EHF Commissions</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/who-we-are/ehf-federations/" class="footer-link">EHF Federations</a>
+                    </li>
+                  
+                </ul>
+              </div>
+              <div class="footer-links-group">
+                <span class="footer-links-toggle">What We Do</span>
+                <button class="footer-links-toggle js-footer-links-toggle" aria-controls="footerLinksOther" aria-expanded="false">
+                  What We Do
+                </button>
+                <ul id="footerLinks_1" class="footer-links-list js-footer-links-list">
+                    <li>
+                      <a href="https://www.eurohandball.com/en/what-we-do/publications/" class="footer-link">Publications</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/what-we-do/ehf-anti-doping-unit-archive/" class="footer-link">EHF Anti-Doping-Unit</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/what-we-do/education-activities/" class="footer-link">Activities</a>
+                    </li>
+                  
+                </ul>
+              </div>
+              <div class="footer-links-group">
+                <span class="footer-links-toggle">Competitions</span>
+                <button class="footer-links-toggle js-footer-links-toggle" aria-controls="footerLinksOther" aria-expanded="false">
+                  Competitions
+                </button>
+                <ul id="footerLinks_2" class="footer-links-list js-footer-links-list">
+                    <li>
+                      <a href="/men/" class="footer-link">Men</a>
+                    </li>
+                    <li>
+                      <a href="/women/" class="footer-link">Women</a>
+                    </li>
+                  
+                </ul>
+              </div>
+              <div class="footer-links-group">
+                <span class="footer-links-toggle">Services</span>
+                <button class="footer-links-toggle js-footer-links-toggle" aria-controls="footerLinksOther" aria-expanded="false">
+                  Services
+                </button>
+                <ul id="footerLinks_3" class="footer-links-list js-footer-links-list">
+                    <li>
+                      <a href="https://www.eurohandball.com/en/services/ehftv/" class="footer-link">EHFTV</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/services/tv-guide/" class="footer-link">TV Guide</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/services/ehf-family/" class="footer-link">EHF Family</a>
+                    </li>
+                    <li>
+                      <a href="https://www.eurohandball.com/en/services/ehf-learning/" class="footer-link">EHF Learning</a>
+                    </li>
+                  
+                </ul>
+              </div>
+              <div class="footer-links-group">
+                <span class="footer-links-toggle">Contact</span>
+                <button class="footer-links-toggle js-footer-links-toggle" aria-controls="footerLinksOther" aria-expanded="false">
+                  Contact
+                </button>
+                <ul id="footerLinks_4" class="footer-links-list js-footer-links-list">
+                    <li>
+                      <a href="https://www.eurohandball.com/en/services/ehf-whistleblowing-platform/" class="footer-link">EHF Reporting Platform</a>
+                    </li>
+                  
+                      <li>
+                        <a href="https://www.iubenda.com/privacy-policy/30710801" class="iubenda-nostyle no-brand iubenda-embed footer-link" title="Privacy Policy">Privacy Policy</a>
+                      </li>
+                      <li>
+                        <a href="https://www.iubenda.com/privacy-policy/30710801/cookie-policy" class="iubenda-nostyle no-brand iubenda-embed footer-link" title="Cookie Policy">Cookie Policy</a>
+                      </li>
+                      <li>
+                        <a href="https://www.iubenda.com/terms-and-conditions/30710801" class="iubenda-nostyle no-brand iubenda-embed footer-link" title="Terms and Conditions">Terms and Conditions</a>
+                      </li>
+                    <li><a href="javascript:void(0);" class="iubenda-cs-preferences-link footer-link">Privacy Preferences</a></li>
+                </ul>
+              </div>
+
+      </div>
+      <!-- ./footer links -->
+    </div>
+  </footer>
+  <!-- ./footer -->
+<!-- iubenda footer link script -->
+<script type="text/javascript">
+  (function (w, d) {
+    var loader = function () {
+      var s = d.createElement("script"),
+        tag = d.getElementsByTagName("script")[0];
+      s.src = "https://cdn.iubenda.com/iubenda.js";
+      tag
+        .parentNode
+        .insertBefore(s, tag);
+    };
+    if (w.addEventListener) {
+      w.addEventListener("load", loader, false);
+    } else if (w.attachEvent) {
+      w.attachEvent("onload", loader);
+    } else {
+      w.onload = loader;
+    }
+  })(window, document);
+</script>
+<!-- ./iubenda footer link script -->
+
+
+<!-- loadjs -->
+<script>
+  loadjs = function() {
+    function e(e, n) {
+      e = e.push ? e : [e]; var t, r, i, c, o = [], f = e.length, a = f;
+      for (t = function(e, t) { t.length && o.push(e), --a || n(o) }; f--;) r = e[f], i = s[r], i ? t(r, i) : (c = u[r] = u[r] || [], c.push(t))
+    }
+    function n(e, n) { if (e) { var t = u[e]; if (s[e] = n, t) for (; t.length;) t[0](e, n), t.splice(0, 1) } } function t(e, n, r, i) {
+      var o, s, u = document, f = r.async, a = (r.numRetries || 0) + 1, h = r.before || c; i = i || 0, /(^css!|\.css$)/.test(e) ?
+          (o = !0, s = u.createElement("link"), s.rel = "stylesheet", s.href = e.replace(/^css!/, "")) : (s = u.createElement("script"),
+            s.src = e, s.async = void 0 === f || f), s.onload = s.onerror = s.onbeforeload = function(c) {
+          var u = c.type[0];
+          if (o && "hideFocus" in s) try { s.sheet.cssText.length || (u = "e") } catch (e) { u = "e" } if ("e" == u && (i += 1) < a) return t(e, n, r, i); n(e, u, c.defaultPrevented)
+        },
+        h(e, s) !== !1 && u.head.appendChild(s)
+    } function r(e, n, r) {
+      e = e.push ? e : [e]; var i, c, o = e.length, s = o, u = []; for (i = function(e, t, r) {
+        if ("e" == t && u.push(e), "b" == t) { if (!r) return; u.push(e) } --o || n(u)
+      }, c = 0; c < s; c++) t(e[c], i, r)
+    } function i(e, t, i) {
+      var s, u; if (t && t.trim && (s = t), u = (s ? i : t) || {}, s) { if (s in o) throw "LoadJS"; o[s] = !0 } r(e, function(e) {
+        e.length ? (u.error || c)(e) : (u.success || c)(), n(s, e)
+      }, u)
+    } var c = function() { }, o = {}, s = {}, u = {}; return i.ready = function(n, t) {
+      return e(n, function(e) { e.length ? (t.error || c)(e) : (t.success || c)() }), i
+    }, i.done = function(e) { n(e, []) }, i.reset = function() {
+      o = {}, s = {}, u = {}
+    }, i.isDefined = function(e) { return e in o }, i
+  }();
+
+  var scriptsToLoad = [
+    '/assets/js/plugin.bundle.js?v=1dwPFcx-Ma0P4w5u1azli9dRWFeGD1UoSqc6Twzzo3Q1',
+    '/assets/js/common.bundle.js?v=4b4ZsR9VAN7gWpQYdBHLJnBkSHSEi2sX_WxRRtchQaI1',
+    '/assets/js/ados.js',
+    '/assets/js/axios.min.js',
+    '/assets/js/vue.min.js',
+    '/assets/js/vue-lazyload.js',
+    '/assets/js/vue-observe-visibility.min.js',
+    '/Scripts/lodash.min.js'];
+
+  var bundlePaths = {
+    validation: '/assets/js/validation.bundle.js?v=hcHCz29z6ApdobYwbjAbv69dqC9AJZac5Zc7aqb-5wA1',
+    jquery: '/assets/js/jquery.bundle.js?v=2A3L8IEP7SFAb1X6G6-w1NV5QPc1RJJ3oFecANYgxZs1',
+    flickity: '/assets/js/flickity.bundle.js?v=VgqwrIvv0yFN3fpXOWpmMieiSWoZMqMm-ia4LMPzFEw1',
+    fullcalendar: '/assets/js/fullcalendar.bundle.js?v=y09kTJd3NMxZEbkz-xvp12FzxYvW1jqy53RnJ4gd4ZE1',
+    datepicker: '/assets/js/datepicker.bundle.js?v=BKx-_MJu7F2-zzfXBG421__OpX4hBJCWtVHzJC59J0w1',
+    lightgallery: '/assets/js/lightgallery.bundle.js?v=pIZ0op7TmLbVBn3Xc1KwI2OIlBxKVkdEutFgK8Vw0gE1',
+    livescores: '/assets/js/livescores.bundle.js?v=EIAu_ewjF2xS7POCKCFQd_XOjRVT38Pt7mhm7Gs0uzc1',
+    searchdetails: '/assets/js/searchdetails.bundle.js?v=_v_1OCsagfTOGxEfa7UlxVpy9dmV9QrejgJJFuCaQTs1',
+    homeofhandball: '/assets/js/homeofhandball.bundle.js?v=HtXB2-wM_H4X15fhdAzHRFzVDPf2pIAQXYk9tzIM7V01',
+    calendarOverview: '/assets/js/calendarOverview.bundle.js?v=eBY_WCmUVW9xzPXOSGQHzxHgHXpvzSYdAUINQX-NDGg1',
+    matches: '/assets/js/matches.bundle.js?v=jwKWngn_0XOzX6UUGoF-QT3G2IhOT6xA1aEF8Go8nUQ1',
+    federations: '/assets/js/federations.bundle.js?v=dPWQQG9EHb508DM9QPdl7MV-DGhH3vI43CyjaBaQqeU1',
+    matchdetails: '/assets/js/matchdetails.bundle.js?v=ZRsptfE_3udWCdy3kBD_1C4GTbHuBeL9R0fmFAhWysI1',
+    newsletter: '/assets/js/newsletter.bundle.js?v=yzi5-cb5ksFN_GTYH495rZwL6exaMvMVBx6npx_VFow1',
+    tvGuide: '/assets/js/tvGuide.bundle.js?v=eR7cx6TTieTJyLOOBqxrcSdpSEvumSEvOYYnLViKmCI1',
+    standings: '/assets/js/standings.bundle.js?v=9Pyc94B8Y8AP5E2J5v9SxFkEx2skWT6p9zejSrMX1GY1',
+    newsOverview: '/assets/js/newsOverview.bundle.js?v=5bNOYlmuGLVssxaYHXra3M2xJ__DMfGSP9o3BkCLYxo1',
+    playerDetails: '/assets/js/playerDetails.bundle.js?v=rUTPgNqhnovguXP_VFD8tTdmOh-AaiF0YK3_8S_eulU1',
+    head2head: '/assets/js/head2head.bundle.js?v=ZVL0WSMCqhm3Wh27nShMEIJELRrXvRgC7G0PH4R_F2A1',
+    vueRouter: '/assets/js/vue-router.min.js',
+    statisticsDetails: '/assets/js/statisticsDetails.bundle.js?v=fVQY3oOFrFZDeYWcXygGZ_gjAEbObX-n3X62mupErLc1',
+    liveBlog: '/assets/js/liveBlog.bundle.js?v=1aCxyTa8iAQp48lgssQwdwHP2kb3-b7EbpNQNJZkobk1',
+    recaptcha: '//www.google.com/recaptcha/api.js',
+    typeForm: '//embed.typeform.com/next/embed.js',
+    tooltip: '/assets/js/tooltip.bundle.js?v=VEyxOFJVbx8WOeIe4KxOSrZigKQrT6_P0R0U44TVUJY1'
+    };
+
+    var modules = document.querySelectorAll('[data-js-requires]');
+
+    for (var i = 0; i < modules.length; i++) {
+    var pluginList = modules[i]
+    .getAttribute('data-js-requires')
+    .split(",");
+
+    for (var j = 0; j < pluginList.length; j++) {
+    var pluginId = pluginList[j].trim();
+    var path = bundlePaths[pluginId];
+
+    if (scriptsToLoad.indexOf(path) === -1) {
+    scriptsToLoad.push(path);
+    }
+    }
+    }
+
+    // load the scripts
+    loadjs(scriptsToLoad, {
+    success: function () { },
+    async: false
+    });
+</script>
+<!-- ./loadjs -->
+
+
+<script async="" type="text/javascript" class="_iub_cs_activate" data-iub-purposes="5" data-suppressedsrc="/assets/js/adzerk.bundle.js" charset="utf-8"></script>
+
+
+  
+
+
+
+  <script type="application/ld+json">
+{
+  "name":"",
+  "@type":"SportsOrganization",
+  "@id":"https://www.eurohandball.com/en/",
+  "@context":"http://schema.org",
+  "url":"https://www.eurohandball.com/en/",
+  "description":"",
+  "legalName":"",
+  "telephone":"",
+  "foundingDate":"",
+  "foundingLocation":"",
+  "sport":"Handball",
+  "logo":
+  {
+  "@type":"ImageObject",
+  "url":"/media/aq1dt0yi/ehf-primary.svg",
+  "width":"80",
+  "height":"120"
+  },
+  "location":
+  {
+  "@type":"Place",
+  "address":
+  {
+  "@type":"PostalAddress",
+  "addressCountry":"",
+  "addressLocality":"",
+  "streetAddress":""
+  },
+  "sameAs":
+  [
+       "https://www.linkedin.com/company/european-handball-federation/",
+       "https://facebook.com/homeofhandball/",
+       "https://twitter.com/HomeofHandball",
+       "https://www.youtube.com/c/thehomeofhandball",
+       "https://www.tiktok.com/@homeofhandball",
+       "https://www.instagram.com/thehomeofhandball/"
+  ]}}
+</script>
+
+
+
+
+
+<iframe name="__tcfapiLocator" style="display: none;"></iframe><iframe src="https://cdn.iubenda.com/cs/bridge/iframe_bridge-1.5.0.html?origin=https%3A%2F%2Fehfcl.eurohandball.com%2Fmen%2F2023-24%2Fmatches%2F&amp;meth=%22get%22&amp;c_name=%22_iub_cs-30710801%22" aria-hidden="true" title="Iframe bridge" style="width:0px; height:0px; display:none; visibility:hidden"></iframe></body></html>

@@ -30,7 +30,7 @@
 <meta name="smartbanner:close-label" content="Banner schließen">
 <meta name="smartbanner:hide-ttl" content="2592000000"> <!-- Millisekunden = 30 Tage -->
 <link rel="stylesheet" type="text/css" href="/?proxy=style/smartbanner.min.css">
-<script type="text/javascript" src="https://track.adform.net/Serving/TrackPoint/?pm=497538&amp;ADFPageName=handball-league-de&amp;ADFdivider=%7C&amp;ord=39683599451&amp;ADFtpmode=2&amp;loc=https%3A%2F%2Fwww.liquimoly-hbl.de%2Fde%2Fliqui-moly-hbl%2Fspielplan%2Fsaisonen%2Fspielplan%2Fsaison-23-24%2Fspielplan-chronologisch%2F&amp;Set1=en-US%7Cen-US%7C3440x1440%7C24"></script><script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-WQ7V138L6G&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3SNCJ6Q1SV&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/javascript" async="" src="https://track.adform.net/serving/scripts/trackpoint/async/"></script><script src="https://connect.facebook.net/signals/config/575712354070149?v=2.9.138&amp;r=stable&amp;domain=www.liquimoly-hbl.de" async="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads" type="text/plain"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PSH8W2P"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W9BH6Z9"></script><script type="text/javascript" src="/?proxy=js/smartbanner.min.js"></script>
+<script type="text/javascript" src="https://track.adform.net/Serving/TrackPoint/?pm=497538&amp;ADFPageName=handball-league-de&amp;ADFdivider=%7C&amp;ord=26309455523&amp;ADFtpmode=2&amp;loc=https%3A%2F%2Fwww.liquimoly-hbl.de%2Fde%2Fliqui-moly-hbl%2Fspielplan%2Fsaisonen%2Fspielplan%2Fsaison-23-24%2Fspielplan-chronologisch%2F&amp;Set1=en-US%7Cen-US%7C3440x1440%7C24"></script><script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-WQ7V138L6G&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3SNCJ6Q1SV&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/javascript" async="" src="https://track.adform.net/serving/scripts/trackpoint/async/"></script><script src="https://connect.facebook.net/signals/config/575712354070149?v=2.9.138&amp;r=stable&amp;domain=www.liquimoly-hbl.de" async="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads" type="text/plain"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PSH8W2P"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W9BH6Z9"></script><script type="text/javascript" src="/?proxy=js/smartbanner.min.js"></script>
 <!-- End SmartBanner -->
 <meta property="fb:pages" content="139393829432529">
 <style> @import url("//hello.myfonts.net/count/39b07c");</style>
@@ -6967,7 +6967,7 @@ src=https://www.facebook.com/tr?id=575712354070149&ev=PageView&noscript=1
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSH8W2P" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="main fixed">
+<div class="main">
 <!-- laola1 id-60 START --> <div class="adcontainer adcontainer--bb">
 <div id="SPMADS_HBL_DISP_REST_Billboard"></div>
 </div>
@@ -7044,126 +7044,126 @@ Ticketshop
 </div>-->
 <div class="scrollcontent">
 <ul class="slick-initialized slick-slider">
-<div class="slick-list"><div class="slick-track" style="opacity: 1; width: 0px; transform: translate3d(0px, 0px, 0px);"><li class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 0px;">
+<div class="slick-list"><div class="slick-track" style="opacity: 1; width: 684px; transform: translate3d(0px, 0px, 0px);"><li class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/thw-kiel/" tabindex="0">
 <img alt="THW Kiel" src="https://www.liquimoly-hbl.de/api/crest-api/b3980_30x30_2023.png">
 <div class="tooltip">
 <span>THW Kiel</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/sc-magdeburg/" tabindex="0">
 <img alt="SC Magdeburg" src="https://www.liquimoly-hbl.de/api/crest-api/b3982_30x30_2023.png">
 <div class="tooltip">
 <span>SC Magdeburg</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/fuechse-berlin/" tabindex="0">
 <img alt="Füchse Berlin" src="https://www.liquimoly-hbl.de/api/crest-api/b5453_30x30_2023.png">
 <div class="tooltip">
 <span>Füchse Berlin</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="3" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/sg-flensburg-handewitt/" tabindex="0">
 <img alt="SG Flensburg-Handewitt" src="https://www.liquimoly-hbl.de/api/crest-api/b3993_30x30_2023.png">
 <div class="tooltip">
 <span>SG Flensburg-Handewitt</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="4" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="4" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/rhein-neckar-loewen/" tabindex="0">
 <img alt="Rhein-Neckar Löwen" src="https://www.liquimoly-hbl.de/api/crest-api/b4004_30x30_2023.png">
 <div class="tooltip">
 <span>Rhein-Neckar Löwen</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="5" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="5" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/tsv-hannover-burgdorf/" tabindex="0">
 <img alt="TSV Hannover-Burgdorf" src="https://www.liquimoly-hbl.de/api/crest-api/b5447_30x30_2023.png">
 <div class="tooltip">
 <span>TSV Hannover-Burgdorf</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="6" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="6" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/handball-sport-verein-hamburg/" tabindex="0">
 <img alt="HSV Hamburg" src="https://www.liquimoly-hbl.de/api/crest-api/b3997_30x30_2023.png">
 <div class="tooltip">
 <span>HSV Hamburg</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="7" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="7" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/tbv-lemgo-lippe/" tabindex="0">
 <img alt="TBV Lemgo Lippe" src="https://www.liquimoly-hbl.de/api/crest-api/b3996_30x30_2023.png">
 <div class="tooltip">
 <span>TBV Lemgo Lippe</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="8" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="8" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/mt-melsungen/" tabindex="0">
 <img alt="MT Melsungen" src="https://www.liquimoly-hbl.de/api/crest-api/b4007_30x30_2023.png">
 <div class="tooltip">
 <span>MT Melsungen</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="9" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="9" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/vfl-gummersbach/" tabindex="0">
 <img alt="VfL Gummersbach" src="https://www.liquimoly-hbl.de/api/crest-api/b3994_30x30_2023.png">
 <div class="tooltip">
 <span>VfL Gummersbach</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="10" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="10" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/sc-dhfk-leipzig/" tabindex="0">
 <img alt="SC DHfK Leipzig" src="https://www.liquimoly-hbl.de/api/crest-api/b7962_30x30_2023.png">
 <div class="tooltip">
 <span>SC DHfK Leipzig</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="11" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="11" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/bergischer-hc/" tabindex="0">
 <img alt="Bergischer HC" src="https://www.liquimoly-hbl.de/api/crest-api/b6268_30x30_2023.png">
 <div class="tooltip">
 <span>Bergischer HC</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="12" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="12" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/hc-erlangen/" tabindex="0">
 <img alt="HC Erlangen" src="https://www.liquimoly-hbl.de/api/crest-api/b6288_30x30_2023.png">
 <div class="tooltip">
 <span>HC Erlangen</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="13" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="13" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/frisch-auf--goeppingen/" tabindex="0">
 <img alt="FRISCH AUF! Göppingen" src="https://www.liquimoly-hbl.de/api/crest-api/b3995_30x30_2023.png">
 <div class="tooltip">
 <span>FRISCH AUF! Göppingen</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="14" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="14" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/tvb-stuttgart/" tabindex="0">
 <img alt="TVB 1898 Stuttgart" src="https://www.liquimoly-hbl.de/api/crest-api/b6272_30x30_2023.png">
 <div class="tooltip">
 <span>TVB 1898 Stuttgart</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="15" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="15" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/hsg-wetzlar/" tabindex="0">
 <img alt="HSG Wetzlar" src="https://www.liquimoly-hbl.de/api/crest-api/b3984_30x30_2023.png">
 <div class="tooltip">
 <span>HSG Wetzlar</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="16" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="16" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/hbw-balingen-weilstetten/" tabindex="0">
 <img alt="HBW Balingen-Weilstetten" src="https://www.liquimoly-hbl.de/api/crest-api/b5463_30x30_2023.png">
 <div class="tooltip">
 <span>HBW Balingen-Weilstetten</span>
 </div>
 </a>
-</li><li class="slick-slide slick-active" data-slick-index="17" aria-hidden="false" tabindex="0" style="width: 0px;">
+</li><li class="slick-slide slick-active" data-slick-index="17" aria-hidden="false" tabindex="0" style="width: 28px;">
 <a href="/de/import/teams/thsv-eisenach/" tabindex="0">
 <img alt="ThSV Eisenach" src="https://www.liquimoly-hbl.de/api/crest-api/b3981_30x30_2023.png">
 <div class="tooltip">
@@ -18933,7 +18933,7 @@ pagename: encodeURIComponent('handball-league-de')
 <script>window.googletag=window.googletag||{cmd:[]};
 googletag.cmd.push(function(){googletag.pubads().setTargeting("qer",document.location.search);googletag.pubads().setTargeting("url",document.location.href);var a=function(d){if(d.pageType)return d};if(dataLayer&&dataLayer[dataLayer.findIndex(a)]){a=JSON.stringify(dataLayer[dataLayer.findIndex(a)]);a='"'+a.slice(2,a.length-4)+'"';a=a.replace(/"/g,"");a=a.split(",");for(var c=0;c<a.length;c++){var b=a[c].split(":");if(1<b.length){var e=b[0];b=b[1];googletag.pubads().setTargeting(e,b);google_tag_manager["rm"]["48518203"](2)&&
 console.log("targeting: "+e+","+b)}}}});</script></div><div style="display: none; visibility: hidden;"><script>function TruendoCookieControlCallback(a){var b,c,d,e,f;a.preferences&&(b=!0);a.marketing&&(d=!0);a.statistics&&(c=!0);a.social_content&&(e=!0);a.social_sharing&&(f=!0);dataLayer.push({event:"consent_status",consent:{functional:b,statistic:c,marketing:d,social_content:e,social_sharing:f}})};</script>
-<script async="null" id="truendoPrivacyPanel" type="text/javascript" src="https://cdn.priv.center/pc/app.pid.js" data-siteid="YOUR WEBSITE ID"></script></div><script type="text/plain" id="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","671594057912222");fbq("track","PageView",{eventID:"1699031199905"});</script><script type="text/javascript" id="">1;fbq("init","575712354070149");fbq("track","PageView",{eventID:"1699031199905"});</script><style>
+<script async="null" id="truendoPrivacyPanel" type="text/javascript" src="https://cdn.priv.center/pc/app.pid.js" data-siteid="YOUR WEBSITE ID"></script></div><script type="text/plain" id="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","671594057912222");fbq("track","PageView",{eventID:"1699046860948"});</script><script type="text/javascript" id="">1;fbq("init","575712354070149");fbq("track","PageView",{eventID:"1699046860948"});</script><style>
     @font-face {
         font-family: 'Roboto';
         font-style: normal;
@@ -18999,4 +18999,4 @@ console.log("targeting: "+e+","+b)}}}});</script></div><div style="display: none
             url('https://cdn.priv.center/pc/assets/fonts/roboto-v18-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
         font-display: swap;
       }
-    </style><iframe src="https://track.adform.net/serving/container/?pm=497538&amp;lid=30463088&amp;ctype=0&amp;media=0&amp;PageName=handball-league-de&amp;rnd=1475395646&amp;cpref=&amp;loc=https%3a%2f%2fwww.liquimoly-hbl.de%2fde%2fliqui-moly-hbl%2fspielplan%2fsaisonen%2fspielplan%2fsaison-23-24%2fspielplan-chronologisch%2f" allowtransparency="true" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" width="1" height="1" style="display:none"></iframe></body></html>
+    </style><iframe src="https://track.adform.net/serving/container/?pm=497538&amp;lid=30463088&amp;ctype=0&amp;media=0&amp;PageName=handball-league-de&amp;rnd=1847855223&amp;cpref=&amp;loc=https%3a%2f%2fwww.liquimoly-hbl.de%2fde%2fliqui-moly-hbl%2fspielplan%2fsaisonen%2fspielplan%2fsaison-23-24%2fspielplan-chronologisch%2f" allowtransparency="true" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" width="1" height="1" style="display:none"></iframe></body></html>
