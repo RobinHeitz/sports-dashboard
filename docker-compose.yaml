@@ -4,6 +4,6 @@ services:
     build: scraper
     # restart: always
     container_name: scraper
-    command: python3 start_scraping.py
+    command: python3 test.py
     volumes:
       - ./scraper:/scraper
