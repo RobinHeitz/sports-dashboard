@@ -25,11 +25,9 @@ def main(**kwargs):
 
     if kwargs["cl_off"] == False:
         print("=== Start processing champions league")
-        # content_cl = get_website_content(config = config["handball_cl"], **args)
-        # items = process_handball_championsleague(content_cl)
+        content_cl = get_website_content(config = config["handball_cl"], **kwargs)
+        items = process_handball_championsleague(content_cl)
     
-
-
 
 
 def get_website_content(testing, save_html, config, **kwargs):
@@ -53,7 +51,6 @@ def get_website_content(testing, save_html, config, **kwargs):
 
 
 def process_handball_bundesliga(content):
-
     soup = BeautifulSoup(content, 'html.parser')
     scheduled_gamedays = soup.find_all('div', class_='schedule')
 
@@ -66,8 +63,37 @@ def process_handball_bundesliga(content):
 
 
 def process_handball_championsleague(content):
-    ...
+    soup = BeautifulSoup(content, 'html.parser')
+    scheduled_games = soup.find_all('a', class_="table-row table-row--results")
+    process_scheduled_matches(scheduled_games)
+
+
+def process_scheduled_matches(scheduled_games):
+    import datetime
     
+    
+    # print(scheduled_games)
+    for match in scheduled_games:
+
+        # print(str(match))
+
+        divs = match.find_all("div")
+
+
+        date_tag = divs[0].findChild("div").findChild("span")
+        date_str = date_tag.text.strip()
+        date = datetime.datetime.strptime(date_str, "%a %b %d, %Y").date()
+        print(date)
+        
+
+
+        # divs = match.find_children('div')
+    
+        # start_time = divs[0].find_child('div')
+        # print(start_time)
+
+        return
+
 
 
 if __name__ == "__main__":
