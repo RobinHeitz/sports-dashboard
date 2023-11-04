@@ -1,50 +1,85 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.select import Select
 import argparse
 from bs4 import BeautifulSoup
-
-from handball.definitions import HandballTeamsBundesliga, HandballTeamsChampionsLeague
-from handball.definitions import GamePairing, ScheduledGameday
-
-from handball.parse_bundesliga import process_scheduled_gamedays, parse_date_of_matches, parse_paired_matches
-
 import yaml
 
+from typing import List
+
+from handball.definitions import HandballTeamsBundesliga, HandballTeamsChampionsLeague
+from handball.definitions import Match, ScheduledGameday
+
+from handball.parse_bundesliga import process_scheduled_gamedays, parse_date_of_matches, parse_paired_matches
+from handball.parse_cl import process_scheduled_matches_cl, process_scheduled_gamedays_cl
+
+from pathlib import Path
 
 def main(**kwargs):
+
+    config_path = Path(__file__).parent / "config.yaml"
     
-    with open("config.yaml", "r") as f:
+    with open(config_path, "r") as f:
         config = yaml.safe_load(f)
 
     if kwargs["bl_off"] == False:
         print("=== Start processing bundesliga")
         content_hbl = get_website_content(config = config["handball_bl"], **kwargs)
-        scheduled_gamedays_bundesliga = process_handball_bundesliga(content_hbl)
-        for i in scheduled_gamedays_bundesliga:
-            print(i)
+        gamedays_bundesliga = process_handball_bundesliga(content_hbl)
+        print_gamedays(gamedays_bundesliga)
 
     if kwargs["cl_off"] == False:
         print("=== Start processing champions league")
-        content_cl = get_website_content(config = config["handball_cl"], **kwargs)
-        items = process_handball_championsleague(content_cl)
-    
+        content_cl = get_website_content(config = config["handball_cl"], exec_driver_func = click_button_load_more_matches, **kwargs)
+        gamedays_cl = process_handball_championsleague(content_cl)
+        print_gamedays(gamedays_cl)
+
+
+def print_gamedays(gamedays: List[ScheduledGameday]):
+    for gameday in gamedays:
+        print(f"====== New gameday on {gameday.date} with {len(gameday.matches)} matches:")
+        for index, match in enumerate(gameday.matches):
+            if match.already_played:
+                print(f"={index +1}: {match.home_team} - {match.home_goals} vs {match.away_goals} - {match.away_team}")
+            else:
+                print(f"={index +1}: {match.home_team} vs {match.away_team}")
+
+
+def click_button_load_more_matches(driver):
+    """Function gets invoked only in CL parsing, because there are plenty matches hidden behind button clicks. Classname: 'load-more-matches'."""
+    while True:
+
+        try:
+            load_more_matches_btn = driver.find_element(By.CLASS_NAME, "load-more-matches")
+            driver.execute_script("arguments[0].click();", load_more_matches_btn)
+        except:
+            break
+
 
 
 def get_website_content(testing, save_html, config, **kwargs):
     offline_filename = config["offline_filename"]
+    path = Path(__file__).parent / offline_filename
+
     if testing is True:
 
-        with open(offline_filename, "r") as f:
+        with open(path, "r") as f:
             content = f.read()
     else:
         url = config["url"]
         
         driver = webdriver.Chrome()
         driver.get(url)
+
+        if 'exec_driver_func' in kwargs:
+            print("=== Start executing driver function.")
+            func = kwargs['exec_driver_func']
+            func(driver)
+
         content = driver.page_source
 
         if save_html is True:
-            with open(offline_filename, "w") as f:
+            with open(path, "w") as f:
                 f.write(content)
     return content
 
@@ -65,34 +100,10 @@ def process_handball_bundesliga(content):
 def process_handball_championsleague(content):
     soup = BeautifulSoup(content, 'html.parser')
     scheduled_games = soup.find_all('a', class_="table-row table-row--results")
-    process_scheduled_matches(scheduled_games)
-
-
-def process_scheduled_matches(scheduled_games):
-    import datetime
-    
-    
-    # print(scheduled_games)
-    for match in scheduled_games:
-
-        # print(str(match))
-
-        divs = match.find_all("div")
-
-
-        date_tag = divs[0].findChild("div").findChild("span")
-        date_str = date_tag.text.strip()
-        date = datetime.datetime.strptime(date_str, "%a %b %d, %Y").date()
-        print(date)
-        
-
-
-        # divs = match.find_children('div')
-    
-        # start_time = divs[0].find_child('div')
-        # print(start_time)
-
-        return
+    matches = process_scheduled_matches_cl(scheduled_games)
+    gamedays = process_scheduled_gamedays_cl(matches)
+    # gamedays
+    return gamedays
 
 
 

@@ -1,6 +1,6 @@
 import datetime
 import re
-from handball.definitions import ScheduledGameday, GamePairing
+from handball.definitions import ScheduledGameday, Match, HandballTeamsBundesliga
 
 
 def process_scheduled_gamedays(scheduled_gamedays) -> dict:
@@ -68,17 +68,25 @@ def parse_paired_matches(schedules:dict):
             team_away = team_away_col.findChild("a")
             team_away = str(team_away).split("\n")[3].strip()
 
+            try:
+                assert team_home in HandballTeamsBundesliga
+                assert team_away in HandballTeamsBundesliga
+            
+            except:
+                continue
+
+
             # goals
             result_col = columns[5]
             result = result_col.findChild("a")
             if result is None:
-                game_pairing = GamePairing(start_time=match_time, home_team=team_home, away_team=team_away)
+                game_pairing = Match(start_time=match_time, home_team=team_home, away_team=team_away)
             
             else:
                 result = str(result).split("\n")[1].split(":")
                 home_goals = result[0]
                 away_goals = result[1]
-                game_pairing = GamePairing(
+                game_pairing = Match(
                     start_time=match_time,
                     home_team=team_home,
                     away_team=team_away,

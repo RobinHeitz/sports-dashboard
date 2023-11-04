@@ -1,5 +1,5 @@
 import argparse
-import scraper.handball.handball as hb_scraper
+
 
 URL_BL_GAME_DATES = "https://www.liquimoly-hbl.de/de/liqui-moly-hbl/spielplan/saisonen/spielplan/saison-23-24/spielplan-nach-spieltagen/"
 
@@ -13,6 +13,7 @@ def read_offline_html() -> str:
 
 def main(testing):
     xpath = ""
+    print("HIII THERE")
     # if testing is True:
     #     html_code = read_offline_html()
     # else:
