@@ -68,6 +68,15 @@ class Match(BaseModel):
     home_goals: Optional[int] = 0
     away_goals: Optional[int] = 0
 
+    def home_team_won(self):
+        return self.home_goals > self.away_goals
+
+    def away_team_won(self):
+        return self.away_goals > self.home_goals
+
+    def draw_game(self):
+        return self.away_goals == self.home_goals and self.already_played == True
+
 
 class ScheduledGameday(BaseModel):
     date: datetime.date

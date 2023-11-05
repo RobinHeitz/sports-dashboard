@@ -12,6 +12,7 @@ from handball.definitions import Match, ScheduledGameday
 
 from handball.parse_bundesliga import process_scheduled_gamedays, parse_date_of_matches, parse_paired_matches
 from handball.parse_cl import process_scheduled_matches_cl, process_scheduled_gamedays_cl
+from handball.calc_table import calc_cur_table
 
 from pathlib import Path
 
@@ -26,7 +27,9 @@ def main(**kwargs):
         print("=== Start processing bundesliga")
         content_hbl = get_website_content(config = config["handball_bl"], **kwargs)
         gamedays_bundesliga = process_handball_bundesliga(content_hbl)
-        print_gamedays(gamedays_bundesliga)
+        print(calc_cur_table(gamedays_bundesliga))
+        # print_gamedays(gamedays_bundesliga)
+
 
     if kwargs["cl_off"] == False:
         print("=== Start processing champions league")
@@ -102,7 +105,6 @@ def process_handball_championsleague(content):
     scheduled_games = soup.find_all('a', class_="table-row table-row--results")
     matches = process_scheduled_matches_cl(scheduled_games)
     gamedays = process_scheduled_gamedays_cl(matches)
-    # gamedays
     return gamedays
 
 
