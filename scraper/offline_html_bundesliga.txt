@@ -30,7 +30,7 @@
 <meta name="smartbanner:close-label" content="Banner schließen">
 <meta name="smartbanner:hide-ttl" content="2592000000"> <!-- Millisekunden = 30 Tage -->
 <link rel="stylesheet" type="text/css" href="/?proxy=style/smartbanner.min.css">
-<script type="text/javascript" src="https://track.adform.net/Serving/TrackPoint/?pm=497538&amp;ADFPageName=handball-league-de&amp;ADFdivider=%7C&amp;ord=26309455523&amp;ADFtpmode=2&amp;loc=https%3A%2F%2Fwww.liquimoly-hbl.de%2Fde%2Fliqui-moly-hbl%2Fspielplan%2Fsaisonen%2Fspielplan%2Fsaison-23-24%2Fspielplan-chronologisch%2F&amp;Set1=en-US%7Cen-US%7C3440x1440%7C24"></script><script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-WQ7V138L6G&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3SNCJ6Q1SV&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/javascript" async="" src="https://track.adform.net/serving/scripts/trackpoint/async/"></script><script src="https://connect.facebook.net/signals/config/575712354070149?v=2.9.138&amp;r=stable&amp;domain=www.liquimoly-hbl.de" async="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads" type="text/plain"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PSH8W2P"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W9BH6Z9"></script><script type="text/javascript" src="/?proxy=js/smartbanner.min.js"></script>
+<script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-WQ7V138L6G&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/plain" async="" src="https://www.googletagmanager.com/gtag/js?id=G-3SNCJ6Q1SV&amp;l=dataLayer&amp;cx=c" truendo="true" data-trucookiecontrol="statistics" data-trusvccontrol="google_analytics"></script><script type="text/javascript" async="" src="https://track.adform.net/serving/scripts/trackpoint/async/"></script><script src="https://connect.facebook.net/signals/config/575712354070149?v=2.9.138&amp;r=stable&amp;domain=www.liquimoly-hbl.de" async="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads" type="text/plain"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PSH8W2P"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W9BH6Z9"></script><script type="text/javascript" src="/?proxy=js/smartbanner.min.js"></script>
 <!-- End SmartBanner -->
 <meta property="fb:pages" content="139393829432529">
 <style> @import url("//hello.myfonts.net/count/39b07c");</style>
@@ -7746,6 +7746,11 @@ Nachhaltigkeit
 <span class="heading">Super Cup</span>
 <ul>
 <li>
+<a href="/de/events/super-cup/tickets-pixum-super-cup/">
+Tickets
+</a>
+</li>
+<li>
 <a href="/de/events/super-cup/besucherinformationen/">
 Besucherinformationen
 </a>
@@ -14134,7 +14139,7 @@ Spielnummer
 </th> <th data-hide="all" class="acenter" style="display: none;">
 Spieltag
 </th></tr></thead> <tbody><tr style="display: table-row;"><td class="acenter footable-visible footable-first-column"><span class="footable-toggle"></span>
-19:00
+20:00
 Uhr
 </td> <td class="aright footable-visible"><a href="/de/import/teams/tvb-stuttgart/"><img src="https://www.liquimoly-hbl.de/api/crest-api/b6272_50x50_2023.png"> <span class="displaymobile hidedesktop">
 TVB
@@ -18933,7 +18938,7 @@ pagename: encodeURIComponent('handball-league-de')
 <script>window.googletag=window.googletag||{cmd:[]};
 googletag.cmd.push(function(){googletag.pubads().setTargeting("qer",document.location.search);googletag.pubads().setTargeting("url",document.location.href);var a=function(d){if(d.pageType)return d};if(dataLayer&&dataLayer[dataLayer.findIndex(a)]){a=JSON.stringify(dataLayer[dataLayer.findIndex(a)]);a='"'+a.slice(2,a.length-4)+'"';a=a.replace(/"/g,"");a=a.split(",");for(var c=0;c<a.length;c++){var b=a[c].split(":");if(1<b.length){var e=b[0];b=b[1];googletag.pubads().setTargeting(e,b);google_tag_manager["rm"]["48518203"](2)&&
 console.log("targeting: "+e+","+b)}}}});</script></div><div style="display: none; visibility: hidden;"><script>function TruendoCookieControlCallback(a){var b,c,d,e,f;a.preferences&&(b=!0);a.marketing&&(d=!0);a.statistics&&(c=!0);a.social_content&&(e=!0);a.social_sharing&&(f=!0);dataLayer.push({event:"consent_status",consent:{functional:b,statistic:c,marketing:d,social_content:e,social_sharing:f}})};</script>
-<script async="null" id="truendoPrivacyPanel" type="text/javascript" src="https://cdn.priv.center/pc/app.pid.js" data-siteid="YOUR WEBSITE ID"></script></div><script type="text/plain" id="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","671594057912222");fbq("track","PageView",{eventID:"1699046860948"});</script><script type="text/javascript" id="">1;fbq("init","575712354070149");fbq("track","PageView",{eventID:"1699046860948"});</script><style>
+<script async="null" id="truendoPrivacyPanel" type="text/javascript" src="https://cdn.priv.center/pc/app.pid.js" data-siteid="YOUR WEBSITE ID"></script></div><script type="text/plain" id="" truendo="true" data-trucookiecontrol="marketing" data-trusvccontrol="facebook_ads">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","671594057912222");fbq("track","PageView",{eventID:"1699293964689"});</script><script type="text/javascript" id="">1;fbq("init","575712354070149");fbq("track","PageView",{eventID:"1699293964689"});</script><style>
     @font-face {
         font-family: 'Roboto';
         font-style: normal;
@@ -18999,4 +19004,4 @@ console.log("targeting: "+e+","+b)}}}});</script></div><div style="display: none
             url('https://cdn.priv.center/pc/assets/fonts/roboto-v18-latin-ext-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
         font-display: swap;
       }
-    </style><iframe src="https://track.adform.net/serving/container/?pm=497538&amp;lid=30463088&amp;ctype=0&amp;media=0&amp;PageName=handball-league-de&amp;rnd=1847855223&amp;cpref=&amp;loc=https%3a%2f%2fwww.liquimoly-hbl.de%2fde%2fliqui-moly-hbl%2fspielplan%2fsaisonen%2fspielplan%2fsaison-23-24%2fspielplan-chronologisch%2f" allowtransparency="true" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" width="1" height="1" style="display:none"></iframe></body></html>
+    </style></body></html>

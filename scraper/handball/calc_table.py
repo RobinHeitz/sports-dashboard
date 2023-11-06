@@ -1,55 +1,16 @@
 import yaml
+from .definitions import MatchStats, ScheduledGameday
 
-class MatchStats:
-    team_name: str = ''
-    matches_won: int = 0
-    matches_lost: int = 0
-    matches_drawn: int = 0
-    games_played: int = 0
-    goals_scored: int = 0
-    goals_conceded: int = 0
-
-    def __init__(self, team_name):
-        self.team_name = team_name
-
-    def __str__(self):
-        return f'{self.team_name} {self.matches_won=} {self.matches_lost=}'
-
-    def __repr__(self):
-        return f'{self.team_name} {self.matches_won=} {self.matches_lost=}'
-
-
-    def inc_games_played(self):
-        self.games_played += 1
-
-    def inc_wins(self):
-        self.matches_won += 1
-
-    def inc_losses(self):
-        self.matches_lost += 1
-
-    def inc_draws(self):
-        self.matches_drawn += 1
-
-    def add_goals_scored(self, goals):
-        self.goals_scored += goals
-
-    def add_goals_conceded(self, goals):
-        self.goals_conceded += goals
-
-
-def calc_ranking(match_stats_list):
-
-    print('hi, Im calculating.')
+def calc_ranking(match_stats_list: list[MatchStats]):
     teams_sorted = sorted(
         match_stats_list, 
-        key=lambda stats: stats.matches_won, 
+        key=lambda stats: (stats.points, stats.goal_ratio), 
         reverse=True)
     
     return teams_sorted
 
 
-def calc_cur_table(gamedays_list):
+def calc_cur_table(gamedays_list: list[ScheduledGameday]):
     stats_dict = {}
     for gd in gamedays_list:
         for match in gd.matches:

@@ -1,14 +1,13 @@
-from selenium import webdriver
+from selenium import webdriver 
+from selenium.webdriver.chrome.options import Options
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 import argparse
 from bs4 import BeautifulSoup
 import yaml
 
-from typing import List
-
-from handball.definitions import HandballTeamsBundesliga, HandballTeamsChampionsLeague
-from handball.definitions import Match, ScheduledGameday
+from handball.print_helpers import print_gamedays, print_current_table, print_upcoming_matches
 
 from handball.parse_bundesliga import process_scheduled_gamedays, parse_date_of_matches, parse_paired_matches
 from handball.parse_cl import process_scheduled_matches_cl, process_scheduled_gamedays_cl
@@ -23,29 +22,23 @@ def main(**kwargs):
     with open(config_path, "r") as f:
         config = yaml.safe_load(f)
 
-    if kwargs["bl_off"] == False:
+    if kwargs["bl_off"] is False:
         print("=== Start processing bundesliga")
         content_hbl = get_website_content(config = config["handball_bl"], **kwargs)
         gamedays_bundesliga = process_handball_bundesliga(content_hbl)
-        print(calc_cur_table(gamedays_bundesliga))
-        # print_gamedays(gamedays_bundesliga)
+        table = calc_cur_table(gamedays_bundesliga) 
+        print_current_table(table)
+        print_upcoming_matches(gamedays_bundesliga)
 
 
-    if kwargs["cl_off"] == False:
+
+    if kwargs["cl_off"] is False:
         print("=== Start processing champions league")
         content_cl = get_website_content(config = config["handball_cl"], exec_driver_func = click_button_load_more_matches, **kwargs)
         gamedays_cl = process_handball_championsleague(content_cl)
-        print_gamedays(gamedays_cl)
-
-
-def print_gamedays(gamedays: List[ScheduledGameday]):
-    for gameday in gamedays:
-        print(f"====== New gameday on {gameday.date} with {len(gameday.matches)} matches:")
-        for index, match in enumerate(gameday.matches):
-            if match.already_played:
-                print(f"={index +1}: {match.home_team} - {match.home_goals} vs {match.away_goals} - {match.away_team}")
-            else:
-                print(f"={index +1}: {match.home_team} vs {match.away_team}")
+        table = calc_cur_table(gamedays_cl)
+        print_current_table(table)
+        print_upcoming_matches(gamedays_cl)
 
 
 def click_button_load_more_matches(driver):
@@ -55,7 +48,7 @@ def click_button_load_more_matches(driver):
         try:
             load_more_matches_btn = driver.find_element(By.CLASS_NAME, "load-more-matches")
             driver.execute_script("arguments[0].click();", load_more_matches_btn)
-        except:
+        except Exception as _:
             break
 
 
@@ -71,7 +64,13 @@ def get_website_content(testing, save_html, config, **kwargs):
     else:
         url = config["url"]
         
-        driver = webdriver.Chrome()
+        if kwargs.get('gui', False) is True:
+            options = Options()
+            options.add_argument('--headless=new')
+            driver = webdriver.Chrome(options=options)
+        else:
+            driver = webdriver.Chrome()
+
         driver.get(url)
 
         if 'exec_driver_func' in kwargs:
@@ -116,6 +115,8 @@ if __name__ == "__main__":
     parser.add_argument("-s", "--save_html", action="store_true", help="Save html content in a .txt file. Has no effect with -t.")
     parser.add_argument("-b", "--bl_off", action="store_true", help="Turns off bundesliga parsing.")
     parser.add_argument("-c", "--cl_off", action="store_true", help="Turns off champions league parsing.")
-
+    parser.add_argument("-g", "--gui", action="store_true", help="Starts in headless mode")
     args = parser.parse_args()
-    main(testing = args.test, save_html=args.save_html, bl_off = args.bl_off, cl_off = args.cl_off)
+    main(testing = args.test, save_html=args.save_html, bl_off = args.bl_off, cl_off = args.cl_off, gui=args.gui)
+    
+
